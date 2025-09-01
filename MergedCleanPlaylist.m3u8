@@ -13131,14 +13131,19 @@ https://jmp2.uk/stvp-US270000298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756711345-rLRJgG7fvhcV2AN6qWhi3dPCcTcC4lyz9e150klB5p8%3D
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756715566-SoVgIOS0E5EMKyWoMR4LKs7aISN5c1xoW9Y9Q6X5x1w%3D
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="StreamEast - Am. Football",Dallas Cowboys vs. Philadelphia Eagles Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756715534-NP%2FLsgLFA9LDdrwV3WkgH%2BzIy5gL1zKgpQjrHJ406kY%3D
 
 #EXTGRP:StreamEast - College Football
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",TCU Horned Frogs vs. North Carolina Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/JHDAJBDnjdna30.m3u8?st=XI0WDmXatu6WTcXM9gruvNFxVMRjSdRG1yMBjW24eVU&e=1756722133
+https://mainstreams.pro/hls/JHDAJBDnjdna30.m3u8?st=TlG7ua6SH4JCKHDOarYdnPXqkr10306SnpslD4fpbYQ&e=1756726305
 
 #EXTGRP:TheTVApp
 #EXTINF:-1  tvg-name="A&E HD" tvg-id="ae-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" group-title="TheTVApp",A&E HD
