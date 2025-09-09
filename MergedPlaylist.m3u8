@@ -4132,7 +4132,7 @@ https://o3.sundaytueday.online/pre31.m3u8?auth_key=1757453163-ed66eff87a7b1c8e9e
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://o2.sundaytueday.online/usa-fs1.m3u8?auth_key=1757452719-ed66eff87a7b1c8e9ef58729189a79b5-00000000000000000000000000000000-420bde27f72bf91da014c3a6b9d4bf5c
-#EXTINF:tvg-id="24.7.Dummy.us" -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/2560px-FS2_logo_2015.svg.png" group-title="FSTV",FS2
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/2560px-FS2_logo_2015.svg.png" group-title="FSTV",FS2
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
@@ -4237,32 +4237,32 @@ https://o2.sundaytueday.online/us-nhlnetwork.m3u8?auth_key=1757453017-ed66eff87a
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://o4.sundaytueday.online/ca-soccerone.m3u8?auth_key=1757453118-ed66eff87a7b1c8e9ef58729189a79b5-00000000000000000000000000000000-d648950a85b2b669b0821b27eb170002
-#EXTINF:tvg-id="24.7.Dummy.us" -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="FSTV",Ori2Cdn Usnfl
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="FSTV",Ori2Cdn Usnfl
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://o2.sundaytueday.online/us-nfl.m3u8?auth_key=1757452678-ed66eff87a7b1c8e9ef58729189a79b5-00000000000000000000000000000000-4e0eb38348d3fb97f6b79080a67616c3
-#EXTINF:tvg-id="24.7.Dummy.us" -1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/espn-u-logo.png" group-title="FSTV",Ori2Cdn Usuespn
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/espn-u-logo.png" group-title="FSTV",Ori2Cdn Usuespn
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://o2.sundaytueday.online/us-uespn.m3u8?auth_key=1757452699-ed66eff87a7b1c8e9ef58729189a79b5-00000000000000000000000000000000-e4202b1083cabacf0f3871056537059b
-#EXTINF:tvg-id="24.7.Dummy.us" -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" group-title="FSTV",Ori2Usanbc New York
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" group-title="FSTV",Ori2Usanbc New York
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://o2.sundaytueday.online/uk-viaplayxtra.m3u8?auth_key=1757452729-ed66eff87a7b1c8e9ef58729189a79b5-00000000000000000000000000000000-19eb798b5d9e27501648a221d7f16cf0
-#EXTINF:tvg-id="24.7.Dummy.us" -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/1024px-UNIVERSO_LOGO_color_black.png" group-title="FSTV",Ori2Usaunirso
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/1024px-UNIVERSO_LOGO_color_black.png" group-title="FSTV",Ori2Usaunirso
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://o4.sundaytueday.online/us-universo.m3u8?auth_key=1757452749-ed66eff87a7b1c8e9ef58729189a79b5-00000000000000000000000000000000-32c87cb92ced9549d1445c5a0cbbba90
-#EXTINF:tvg-id="24.7.Dummy.us" -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TFN_logo.svg" group-title="FSTV",Ori2Usfightnetwork
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TFN_logo.svg" group-title="FSTV",Ori2Usfightnetwork
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://o2.sundaytueday.online/us-fightnetwork.m3u8?auth_key=1757453067-ed66eff87a7b1c8e9ef58729189a79b5-00000000000000000000000000000000-bb0b2e5b5b6b6a97f83ddcf44a740d59
-#EXTINF:tvg-id="24.7.Dummy.us" -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="FSTV",Ori2Usfoxnews
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="FSTV",Ori2Usfoxnews
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
