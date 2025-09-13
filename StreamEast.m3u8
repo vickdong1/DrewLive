@@ -1,26 +1,32 @@
-# Updated at 2025-09-13T22:17:22.932861Z
+# Updated at 2025-09-13T23:18:16.331016Z
 #EXTM3U
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Cincinnati Reds vs. Athletics Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edgestreams.pro/hls/jzabfazkbf27.m3u8?st=pnkyfDNKolsoAxJK-M0ohwRMfVCRoYRuFH4m_PuVGnQ&e=1757816413
+
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Los Angeles Dodgers vs. San Francisco Giants Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/hefbafbakx28.m3u8?st=GMVAu-X1bYsIh1144DuIxD_e82UsE9clbvosyOkDmf8&e=1757812839
+https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=sTTTJDob7-uRvPY7sleMYqDLOljH0tIxZ-kLvIy4sRA&e=1757816425
+
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Eastern Michigan Eagles vs. Kentucky Wildcats Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edgestreams.pro/hls/cwxcnbscbsq39.m3u8?st=AwWJtxPsn43zBpyiSaWigYP5TuxyiB_Uj4tR9SpBpj0&e=1757816484
 
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",Texas State Bobcats vs. Arizona State Sun Devils Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fl6.moveonjoy.com/NFL_1/index.m3u8?verify=1757802053-Mkhy7TV8R%2FXBu6CTVrFVtDOvalk5b6Jlp2yZjUt4Jl0%3D
+https://fl6.moveonjoy.com/NFL_1/index.m3u8?verify=1757805726-8F6DyHsEXgFVasroc6XVGGrhxZcdCSGB6YACtHPj%2BD8%3D
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Los Angeles Angels vs. Seattle Mariners Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=c2dMp_hDmPFwluy2F1EH-_w-m0P50b7AhGkdSpEae9k&e=1757812863
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Cincinnati Reds vs. Athletics Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=EQRwfQOJUdV4-tT-T8-3P391Y9CWm4JYKPgecBLFNZE&e=1757813051
+https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=zYJHTMSfCo_OzryHpcEC33BsU551FzqwwnH2VsdpJI0&e=1757816575
 
