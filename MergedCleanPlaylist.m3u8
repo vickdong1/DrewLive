@@ -5117,7 +5117,7 @@ https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 http://23.237.104.106:8080/USA_FS2/index.m3u8
 #EXTINF:-1  tvg-name="FX" tvg-id="FX.Networks.East.Coast.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
-#EXTINF:-1  tvg-name="GOLTV" tvg-id="GOL.TV.(GolTV).pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="MoveOnJoy" radio="false",GOLTV
+#EXTINF:-1  tvg-name="GOLTV" tvg-id="GOL.TV.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="MoveOnJoy" radio="false",GOLTV
 http://23.237.104.106:8080/USA_GOLTV/index.m3u8
 
 #EXTGRP:Mystique Caribbean
