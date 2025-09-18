@@ -6474,7 +6474,7 @@ https://fl7.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1  tvg-name="CINEMAX EAST" tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="MoveOnJoy" radio="false",CINEMAX EAST
 https://fl7.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1  tvg-name="CINEMAX MOREMAX" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="MoveOnJoy" radio="false",CINEMAX MOREMAX
-https://fl7.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1  tvg-name="CINEMAX WEST" tvg-id="Cinemax.-.Pacific.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="MoveOnJoy" radio="false",CINEMAX WEST
 https://fl7.moveonjoy.com/CINEMAX/index.m3u8
 #EXTINF:-1  tvg-name="Cleo TV" tvg-id="CLEO.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" group-title="MoveOnJoy" radio="false",Cleo TV
