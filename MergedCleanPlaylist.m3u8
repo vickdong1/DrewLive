@@ -4522,6 +4522,568 @@ http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Net
 #EXTINF:-1  tvg-name="Zombieland (2009)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU5MDg0NTQ1N15BMl5BanBnXkFtZTcwMjA4Mjg3Mg@@._V1_.jpg" group-title="DrewLive VOD" radio="false",Zombieland (2009)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Zombieland.2009.1080p.BluRay.DDP.7.1.x265-edge2020.mkv
 
+#EXTGRP:FSTV
+#EXTINF:-1 tvg-id="ABC.(KABC).Los.Angeles,.CA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/1200px-WABC_TV_New_2021.svg.png" group-title="FSTV",ABC
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/us-abc.m3u8?auth_key=1758210836-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-61d493eda663aa3e70031322de10dc76
+#EXTINF:-1 tvg-id="ACC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="FSTV",ACC Network
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-accnetwork.m3u8?auth_key=1758210854-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-9fe480930bf6fca25bdc087f2d52bed6
+#EXTINF:-1 tvg-id="AXS.TV.USA.HD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Axs-tv-button-logo-blue.png" group-title="FSTV",AXS TV
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o3.sundaytueday.online/pre51.m3u8?auth_key=1758210865-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-b085bbb752031b03e5e0309e92413b20
+#EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/2560px-BBC_News_2022_%28Alt%29.svg.png" group-title="FSTV",BBC News UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/uk-bbcnews.m3u8?auth_key=1758210870-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-b1c5640586c43e7cfd7e10844d691d9c
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/BBC_Two_logo.png" group-title="FSTV",BBC Two UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/uk-bbctwo.m3u8?auth_key=1758210868-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-92e845e2947c128c92c4846765352cf4
+#EXTINF:-1 tvg-id="613759" tvg-logo="https://media.info/l/o/6/6595.1491352332.png" group-title="FSTV",BeIN Sports Español
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/usa-beinlaliga.m3u8?auth_key=1758210813-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-5a1a45a4f5e8444d2484fdd08b3f3eb2
+#EXTINF:-1 tvg-id="613759" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Logo-bein-sport-xtra-espanol-plain.png" group-title="FSTV",BeIN Sports Español Xtra
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/us-beinespamolxtra.m3u8?auth_key=1758210814-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-e56dea8bcd522a077f7a2d144231d208
+#EXTINF:-1 tvg-id="Benfica.TV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Logo_Benfica_TV.png/1200px-Logo_Benfica_TV.png" group-title="FSTV",Benfica TV
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o3.sundaytueday.online/pt-benfica.m3u8?auth_key=1758210905-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-61978889483ade7fe8866de5491ee256
+#EXTINF:-1 tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CBS.png" group-title="FSTV",CBS Los Angeles
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/us-cbslosangeles.m3u8?auth_key=1758210739-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-8b306415d10b5cf79dc4a7a5dacbd09f
+#EXTINF:-1 tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://yt3.googleusercontent.com/DMOVkUIv9Su7yHsGmjl7gS0iU9qjvz13BSZZfQTVMCAE7mUHbWS3S0-DbFg1HUBt9pD9yjxT=s900-c-k-c0x00ffffff-no-rj" group-title="FSTV",CBS Sports Golazo!
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o3.sundaytueday.online/pre22.m3u8?auth_key=1758210741-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-fcbfe871e2c1c92b951f8a09258f13cf
+#EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="FSTV",Cinemax
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/ent-cinemax.m3u8?auth_key=1758210891-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-f467c2586d673923fea0a05d96527581
+#EXTINF:-1 tvg-id="CNBC.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png" group-title="FSTV",CNBC
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-cnbc.m3u8?auth_key=1758210768-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-a0e0f7522de6a123b4c119a3507b7584
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/2048px-CNN_International_logo.svg.png" group-title="FSTV",CNN
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-cnn.m3u8?auth_key=1758210851-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-fe43d4eba9ddafb7c334b5e583dcc8e3
+#EXTINF:-1 tvg-id="DAZN.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn1-de.png?raw=true" group-title="FSTV",DAZN 1 UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/uk-dazn.m3u8?auth_key=1758210822-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-93f960e2b8556824a5c2e9859ae2fdbd
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="FSTV",ESPN
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-espn.m3u8?auth_key=1758210745-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-a64b48832387907da078c5987d042340
+#EXTINF:-1 tvg-id="ESPN.Deportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1280px-ESPN_Deportes.svg.png" group-title="FSTV",ESPN Deportes
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-espndeportes.m3u8?auth_key=1758210753-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-12cefce0aac737ac237a93dd9f496a1f
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="FSTV",ESPN2
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-espn2.m3u8?auth_key=1758210747-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-d3aa90219c01a52bc3415f9dadd4d5c4
+#EXTINF:-1 tvg-id="ESPN.News.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" group-title="FSTV",ESPNews
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-espnnews.m3u8?auth_key=1758210750-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-aaa2a04102829589c7f295f66004c8f7
+#EXTINF:-1 tvg-id="ESPN.U.us" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/espn-u-logo.png" group-title="FSTV",ESPNU
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-uespn.m3u8?auth_key=1758210749-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-72532d05d531e1c5d07965be2286b5fe
+#EXTINF:-1 tvg-id="Eurosport.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Eurosport_1_HD_Logo_2015.png" group-title="FSTV",Eurosport 1 UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/uk-eurosport1.m3u8?auth_key=1758210775-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-ddb604f784402dfbeee671278103163c
+#EXTINF:-1 tvg-id="Eurosport.2.es" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-HD.png" group-title="FSTV",Eurosport 2 UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/uk-eurosport2.m3u8?auth_key=1758210779-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-f8f1c0584114a540c35cff158516d22a
+#EXTINF:-1 tvg-id="Fox.Deportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="FSTV",Fox Deportes
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-foxdeportes.m3u8?auth_key=1758210871-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-07ea941f58fd7d464d92fbca49832937
+#EXTINF:-1 tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/FOX.png" group-title="FSTV",Fox Los Angeles
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/us-foxchanel.m3u8?auth_key=1758210839-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-09c793b780de60489a1412dbdc8cfb40
+#EXTINF:-1 tvg-id="FOX.Soccer.Plus.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/800px-Fox_Soccer_Plus_logo.svg.png" group-title="FSTV",Fox Soccer Plus
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/usa-foxsoccerplus.m3u8?auth_key=1758210828-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-9d9987f990be956b642b3f6e0f22ca55
+#EXTINF:-1 tvg-id="FoxCricket.au" tvg-logo="https://www.sec.gov/Archives/edgar/data/1564708/000156470822000051/image_151a.jpg" group-title="FSTV",Fox Sports 502 AU
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o3.sundaytueday.online/pre31.m3u8?auth_key=1758210886-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-c3d68fae35e6b183887e0efd9080c501
+#EXTINF:-1 tvg-id="Gol.TV.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="FSTV",GOL TV
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/us-goltv.m3u8?auth_key=1758210894-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-d111b59a22373e6f21f7be546d18cabf
+#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="FSTV",Golf Channel
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-golf.m3u8?auth_key=1758210759-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-348ca15ab6b040b8e78dbdb77424a51a
+#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true" group-title="FSTV",HBO
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/ent-hbo.m3u8?auth_key=1758210889-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-cfb9f2bc09ee56a39a75ced1b3c05b07
+#EXTINF:-1 tvg-id="ION..-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ION_Television.png" group-title="FSTV",ION USA
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/us-ion.m3u8?auth_key=1758210827-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-d53305071980383a3dc0f81ac4fbd403
+#EXTINF:-1 tvg-id="LA.LIGA.za" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="FSTV",La Liga UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/uk-laligatv.m3u8?auth_key=1758210782-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-c711b7a07e3644ff26c5de1762166423
+#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-logo="https://ejnorbs.co.uk/wp-content/uploads/2022/01/1E9C338F-017E-4986-A724-AE08D733A0CF.png" group-title="FSTV",LFC TV UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/uk-lfctv.m3u8?auth_key=1758210825-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-80610b0f1bbc8c14e8df3854f040cb87
+#EXTINF:-1 tvg-id="Marquee.Sports.Network.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShBAuTfA1DhscWW7O3ANKzLlFXAcEgz4aQOA&s" group-title="FSTV",Marquee Sports Network
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-marquee.m3u8?auth_key=1758210831-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-afe1793eda5662b19cd63f5cb56d0fae
+#EXTINF:-1 tvg-id="MLB.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="FSTV",MLB Network
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-mlbnetwork.m3u8?auth_key=1758210850-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-bd2e9d8fbaafd151fc41515bc09f526e
+#EXTINF:-1 tvg-id="MSNBC.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MSNBC_2015-2021_logo.svg/2560px-MSNBC_2015-2021_logo.svg.png" group-title="FSTV",MSNBC
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-msn.m3u8?auth_key=1758210767-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-6aa3fced5e8a0d23e7956d487dec50de
+#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="FSTV",MUTV UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/uk-mutv.m3u8?auth_key=1758210785-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-8611672d5ecc24b8b5add59fd799c6eb
+#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBATV.png" group-title="FSTV",NBA TV
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-nbatv.m3u8?auth_key=1758210848-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-6bcc969209cdbb5a5f17a6d823b91497
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png" group-title="FSTV",NBC
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-nbc.m3u8?auth_key=1758210765-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-297a04d131856c8240e9b2625175bb4f
+#EXTINF:-1 tvg-id="plex.tv.NBC.News.NOW.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-news-flat-us.png?raw=true" group-title="FSTV",NBC News
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/uk-viaplayxtra.m3u8?auth_key=1758210758-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-7025df0a414e32e52dd794d0486e9b25
+#EXTINF:-1 tvg-id="The.NFL.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-hz-us.png?raw=true" group-title="FSTV",NFL Network
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-nfl.m3u8?auth_key=1758210742-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-e274fd790491271d797e62e81f95e5d4
+#EXTINF:-1 tvg-id="NFL.RedZone.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="FSTV",NFL RedZone
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-redzone.m3u8?auth_key=1758210744-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-f79cac8b9c6730e8a0d30e731938824e
+#EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="FSTV",NHL Network
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-nhlnetwork.m3u8?auth_key=1758210845-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-7584b20c7bd895bfd377cb97657a91ab
+#EXTINF:-1 tvg-id="One.Soccer.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/one-soccer-ca.png?raw=true" group-title="FSTV",OneSoccer Canada
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/ca-soccerone.m3u8?auth_key=1758210873-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-da15f07c7e4450037a783f3d41eabf2d
+#EXTINF:-1 tvg-logo="https://live-tv.b-cdn.net/icons/sports/image_(5).png" group-title="FSTV",Ori2 Uksv2Sky Sport Plus
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/uk-skyplus.m3u8?auth_key=1758210787-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-1b98d67ae671a678b544ea0819172faa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="FSTV",Ori21Cdnsv3Ukmainent
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/uk-skysportmain.m3u8?auth_key=1758210793-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-ce8ff97b68abfdb8d4e85e2cb5092f5a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXw53gnUV1zL1tDoAFLmfHNOtpMBx7goFFg&s" group-title="FSTV",Ori21Ukskysportpremierleague
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/uk-skysportpremierleague.m3u8?auth_key=1758210790-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-eec8eabcc43e9288fbce25ad8948521e
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="FSTV",Ori22Uktntsport1
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/uk-tntsport1.m3u8?auth_key=1758210770-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-566a0f1cfac1c9667085615be444a90e
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="FSTV",Ori22Uktntsport2
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/uk-tntsport2.m3u8?auth_key=1758210772-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-98749f91368e974b5a713580a7bb251b
+#EXTINF:-1 tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="FSTV",Ori22Uktntsport3
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/uk-tntsport3.m3u8?auth_key=1758210773-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-dbb0fb7be5ed9a8616242b5c42a8ffc2
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="FSTV",Ori22Uktntsport4
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/uk-tntsport4.m3u8?auth_key=1758210778-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-43c0e96c57fab3b94c5f428f15533fcd
+#EXTINF:-1 tvg-logo="https://assets.tv24.co/channels/bt-sport-extra-1-l.webp" group-title="FSTV",Ori22Uktntsport5
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/uk-tntsport5.m3u8?auth_key=1758210776-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-b7ef263baad185bc8cb4d5b58c32863b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1200px-ITV1_logo_%282022%29.svg.png" group-title="FSTV",Ori23Ukitv1
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/uk-itv1.m3u8?auth_key=1758210816-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-f99e1aa9b1a9b7b76367807893f28fac
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ITV2_Logo_2013.svg/2560px-ITV2_Logo_2013.svg.png" group-title="FSTV",Ori23Ukitv2
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/uk-itv2.m3u8?auth_key=1758210817-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-c527ad7eba2ae0ea5efa73120a4eda76
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/ITV3_logo_2022.svg/1024px-ITV3_logo_2022.svg.png" group-title="FSTV",Ori23Ukitv3
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/uk-itv3.m3u8?auth_key=1758210819-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-d52d7d0a3439dcc2e5bac3a193342659
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/2560px-ITV4_logo_%282022%29.svg.png" group-title="FSTV",Ori23Ukitv4
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/uk-itv4.m3u8?auth_key=1758210820-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-9b63a9ddf12a4a1979ae550468e04c6c
+#EXTINF:-1 tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/9ec570fbdc82b613baeaddf1de974395.png" group-title="FSTV",Ori23Ukpremiersport1
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/uk-premiersport1.m3u8?auth_key=1758210796-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-701e054cea54ad11cbdc1dcba2736095
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBC1z5WtSEusVnMmpXn6bkqH-GLC4UnTvo3Q&s" group-title="FSTV",Ori23Ukpremiersport2
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/uk-premiersport2.m3u8?auth_key=1758210798-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-a08dcdb50c22db78bf33851ca44d4267
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/DAZN_1_Logo.svg" group-title="FSTV",Ori2De Dazn 1
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o3.sundaytueday.online/de-dazn1.m3u8?auth_key=1758210874-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-f9cc22811fd84770300bf67cdece0e0c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="FSTV",Ori2De Dazn 2
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o3.sundaytueday.online/de-dazn2.m3u8?auth_key=1758210877-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-bc8aba32d76c181b55755f5d71d9cc39
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png" group-title="FSTV",Ori2Debundesliga1
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o3.sundaytueday.online/de-bundesliga1.m3u8?auth_key=1758210885-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-302be68cd9c2cf438218f1d3b330f555
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.svg" group-title="FSTV",Ori2Deskyde Mix
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/de-skymix.m3u8?auth_key=1758210883-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-672370f07fbb76f16513ec9a99e4530d
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Sport_Top_Event_Logo_2022.svg/2560px-Sky_Sport_Top_Event_Logo_2022.svg.png" group-title="FSTV",Ori2Deskyde Top Ent
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/de-skytopevent.m3u8?auth_key=1758210879-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-0afb07273886840d83438768e4ea67f9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/2560px-Sport-Digital.svg.png" group-title="FSTV",Ori2Desportdigital
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/de-sportdigital.m3u8?auth_key=1758210880-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-5e529e075de787260158e6b400cd3438
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/FanDuel_Sports_Network_logo.svg" group-title="FSTV",Ori2Fanduel Tv
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o3.sundaytueday.online/pre32.m3u8?auth_key=1758210863-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-8a4719c0a1466bb0399d4a0396401d04
+#EXTINF:-1 tvg-logo="https://archive.org/download/BbcOneWales_201708/bbc%20one%20wales.png" group-title="FSTV",Ori2Ukbbcone
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/uk-bbcone.m3u8?auth_key=1758210867-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-0ba4d35f0f4a7cfd0d4fbdbafe700d84
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m1eHN0iyOn0rawZCtwzRqk8Tbf_vd58vYuWeL36EDhbLzd=s900-c-k-c0x00ffffff-no-rj" group-title="FSTV",Ori2Usabeinsport Hd
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/usa-beinsport.m3u8?auth_key=1758210811-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-6e1241b9611288e1ee1aa938fda26de7
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="FSTV",Ori2Usabeinsport Xtra
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/us-beinxtra.m3u8?auth_key=1758210810-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-6109256d09446ecebaf7241b1ed19426
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Big_Ten_Network_Logo.svg" group-title="FSTV",Ori2Usabignetwork
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/us-bignetwork.m3u8?auth_key=1758210834-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-ae560f5450d986e1632db6bacbefb18c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CBS_Sports_Network_2016.png" group-title="FSTV",Ori2Usacbssport
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/usa-cbssport.m3u8?auth_key=1758210738-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-a75f5f4ac02e27d6296da213f289af39
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="FSTV",Ori2Usafs1
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/usa-fs1.m3u8?auth_key=1758210755-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-50bdd2262c5debf24abb0e4081b67e90
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/2560px-FS2_logo_2015.svg.png" group-title="FSTV",Ori2Usafs2
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/usa-fs2.m3u8?auth_key=1758210756-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-f65394a27662e6be8c13e8d76bd1d151
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/FuboTV_logo.svg" group-title="FSTV",Ori2Usafubosport
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/usa-fubosport.m3u8?auth_key=1758210824-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-423b65b30355e67d4ca46ab25f552e85
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/hbo-2.svg" group-title="FSTV",Ori2Usahbo2
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/ent-greatmovie.m3u8?auth_key=1758210906-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-e806883f9d74fa2acdf755f393fecc79
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="FSTV",Ori2Usatudn
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/usa-tudn.m3u8?auth_key=1758210837-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-d92fefc42d2d43c262f33cc7010596d2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg" group-title="FSTV",Ori2Usatycsport
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/usa-tycsport.m3u8?auth_key=1758210830-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-7f4cb3388471a1672dac2c4751e55a3a
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/1024px-UNIVERSO_LOGO_color_black.png" group-title="FSTV",Ori2Usaunirso
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/us-universo.m3u8?auth_key=1758210764-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-a1be6ea4cfabfead7bcc6c7a49a7221c
+#EXTINF:-1 tvg-logo="https://live-tv.b-cdn.net/logos/channels/0cdnusausanetwork-sv3.png" group-title="FSTV",Ori2Usausanetwork
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/usa-usanetwork.m3u8?auth_key=1758210736-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-583469f9b2c0d60c18df33f3a5c16b0b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="FSTV",Ori2Usfoxnews
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-foxnews.m3u8?auth_key=1758210856-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-c31a4400bb39adbdbf6dc7958abdf0e5
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2013/01/discovery-channel-.eps-logo-vector-400x400.png" group-title="FSTV",Ori2Zentdiscory
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/ent-discovery.m3u8?auth_key=1758210888-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-08d04b5934efd81c62ae4b26d4ca60fd
+#EXTINF:-1 tvg-id="Racing.TV.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Racing_TV_logo.png" group-title="FSTV",Racing TV UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/uk-racingtv.m3u8?auth_key=1758210801-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-d1c6acb282f6ce4089325e03be9b4fa3
+#EXTINF:-1 tvg-id="SEC.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="FSTV",SEC Network
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/us-secnetwork.m3u8?auth_key=1758210752-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-c00bdf83ec2464c4460e040baaac37be
+#EXTINF:-1 tvg-id="Sky.Sports+.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Sky-sports-main-arena.jpg" group-title="FSTV",Sky Sport Arena UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o3.sundaytueday.online/uk-skysportarena.m3u8?auth_key=1758210804-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-56915859d8b33bd7536a01d10d6d2af4
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHrp6iuQzLwISQa7S4inz3kY6FUzR-10hBGQ&s" group-title="FSTV",Sky Sport Cricket UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/uk-skysportcricket.m3u8?auth_key=1758210805-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-d11e441c695bd0f861fd7e62f3df8079
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://live-tv.b-cdn.net/logos/channels/ukskysportf1.png" group-title="FSTV",Sky Sport F1 UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/uk-skysportf1.m3u8?auth_key=1758210799-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-12bdb9a073983c6ab8e9e04c5fdffe95
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="FSTV",Sky Sport Football
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/uk-skysportfootball.m3u8?auth_key=1758210788-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-557937c2000f4bb44f5d0a9a4f0a8cd2
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/2560px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="FSTV",Sky Sport Golf UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/uk-skysportgolf.m3u8?auth_key=1758210781-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-3d0afd1e7c99cc839751d3aeeefa6a79
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/2560px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="FSTV",Sky Sport Mix UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/uk-skysportmix.m3u8?auth_key=1758210791-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-c9be89d469e9c0723296ba426599d737
+#EXTINF:-1 tvg-id="Sky.Sport.News.de" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/sky-sports-news-3-logo.png" group-title="FSTV",Sky Sport News DE
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/de-skynews.m3u8?auth_key=1758210882-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-63b0f0d72772937ce737a1a0a8a9ce86
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="FSTV",Sky Sport News UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/uk-skysportnews.m3u8?auth_key=1758210807-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-93034734ce99af3d4cb2bb2315b49fa1
+#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.de" tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg" group-title="FSTV",Sky Sport Premier League DE
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/de-skypremierleagaue.m3u8?auth_key=1758210876-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-4c8697f69bab0089d3a7858022f0fd8e
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Sky_sports_racing.png" group-title="FSTV",Sky Sport Racing UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/uk-skysportracing.m3u8?auth_key=1758210795-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-a2559656a4bbad220c1ad3d9493f997d
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sky_Sport_Tennis_HD.svg/2560px-Sky_Sport_Tennis_HD.svg.png" group-title="FSTV",Sky Sport Tennis UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/uk-skysporttenis.m3u8?auth_key=1758210784-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-4efd87f833ed55d0b9df55a80aa26715
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-action-hz-uk.png?raw=true" group-title="FSTV",Sky Sports Action UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/uk-skysportaction.m3u8?auth_key=1758210802-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-194811bd0c510ce74381146ff50fab53
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true" group-title="FSTV",Sport TV1 Portugal
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o3.sundaytueday.online/pt-sporttv1.m3u8?auth_key=1758210903-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-9df04db3b7511cd5366f3dece8ddc441
+#EXTINF:-1 tvg-id="TBS.-.East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" group-title="FSTV",TBS
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/zzz-cty4.m3u8?auth_key=1758210892-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-57ca5389a806f36748b2e8fbde3d7923
+#EXTINF:-1 tvg-id="Telemundo.(KVEA).Los.Angeles,.CA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="FSTV",Telemundo
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/us-telemundo.m3u8?auth_key=1758210840-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-d4967a1862ec08569b1aba2f8035441f
+#EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="FSTV",Tennis Channel
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-tennistv.m3u8?auth_key=1758210761-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-3e8de577ead527724e984deef070c7b7
+#EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" group-title="FSTV",Tennis Channel 2
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/us-tennistv2.m3u8?auth_key=1758210762-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-9f8cf2676f8fc8faf5c13c3f2608c188
+#EXTINF:-1 tvg-id="The.Fight.Network.(United.States).(TFN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fight-network-us.png?raw=true" group-title="FSTV",The Fight Network
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-fightnetwork.m3u8?auth_key=1758210859-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-ef9931906e7782e956e7aa9eb00da0d8
+#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="FSTV",TNT
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/us-tnt.m3u8?auth_key=1758210860-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-c425c756f0ff1504ba41dba86b95b5f8
+#EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true" group-title="FSTV",truTV
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o3.sundaytueday.online/pre52.m3u8?auth_key=1758210862-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-e7dfb143eba90224cea0df828ef749fa
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="FSTV",TSN 1
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/es-tsn1.m3u8?auth_key=1758210895-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-d717d9f628e4ca9ef4b8258f9451d157
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" group-title="FSTV",TSN 2
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/es-tsn2.m3u8?auth_key=1758210897-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-c87067fbd389406a5213115e46cda595
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://apsiscom.com/images/channels/935.webp" group-title="FSTV",TSN 3
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/es-tsn3.m3u8?auth_key=1758210898-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-3b6b8521eacd0fb5b85d216af0ad47d9
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png" group-title="FSTV",TSN 4
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/es-tsn4.m3u8?auth_key=1758210900-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-62a60195136b66dce99f72e024b8a82d
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://product-catalog-storage.s3.ca-central-1.amazonaws.com/channels/logo/TSN_5_HD.png" group-title="FSTV",TSN 5
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/es-tsn5.m3u8?auth_key=1758210901-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-572888d9361989813e4205a2d51a5d8d
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsVQ1cCp2JyCeuTWBoSi-Te_YD_29p4ZEUJQ&s" group-title="FSTV",Uksky Sport Darts
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/uk-skydart.m3u8?auth_key=1758210808-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-2b65405dcbc26d2dc6871f189b5a7c9d
+#EXTINF:-1 tvg-id="UniMas.(KFTH).Houston,.TX.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/unimas-us.png?raw=true" group-title="FSTV",UniMás
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/uk-unimas.m3u8?auth_key=1758210842-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-910a490a16c2fdffc764046584912e66
+#EXTINF:-1 tvg-id="W.Network.Canada.East.(WTN).ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/w-network-ca.png?raw=true" group-title="FSTV",W Network
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-wnetwork.m3u8?auth_key=1758210853-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-9e1c1077cfc790b59f49d4963fa52e2f
+#EXTINF:-1 tvg-id="Willow.Cricket.HDTV.(WILLOWHD).us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoBxNmfDbilv_ElFg5-noVIBgH7Y1OLTFQQ&s" group-title="FSTV",Willow Cricket HD
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-willowhd.m3u8?auth_key=1758210843-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-0c250cf24858c062f0d967b18f661b94
+#EXTINF:-1 tvg-id="Willow.Xtra.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-xtra-us.png?raw=true" group-title="FSTV",Willow Xtra
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-willowxtra.m3u8?auth_key=1758210847-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-1593434b9fe0b99f69dba85993bd3b6a
+#EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png?raw=true" group-title="FSTV",World Fishing Network
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o2.sundaytueday.online/us-wfn.m3u8?auth_key=1758210857-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-72c48f23aced66850cf307da06e4ad65
+#EXTINF:-1 tvg-id="YES.Network.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzVKhyyLjhKAjizJqs8N8jg7mH7bHWVXwUUg&s" group-title="FSTV",YES Network USA
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/us-yes.m3u8?auth_key=1758210833-64e1ddd97617172a21efde8e871dfab4-00000000000000000000000000000000-b3ea788084f193a25564d306e325ec48
+
 #EXTGRP:JapanTV
 #EXTINF:-1 group-title="JapanTV" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC
 https://mt01.utako.moe/abc/index.m3u8
@@ -13255,677 +13817,6 @@ https://v13.thetvapp.to/hls/MLB20/tracks-v2a1/mono.m3u8?token=WAddi6WJBWwereUSqt
 https://v12.thetvapp.to/hls/MLB17/tracks-v1a1/mono.m3u8?token=YoUqr-Ogedsie5kQB2cYkQ&expires=1758206222&user_id=OTJubGJvWGg4eWozazRyeFR0WEIyUGxzRlZiSjVPdFhKWVFCMzNJMw==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Tampa Bay Rays - 9/17/25, 11:05:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Toronto Blue Jays @ Tampa Bay Rays - 9/17/25 - 11:05:00 PM UTC SD
 https://v12.thetvapp.to/hls/MLB17/tracks-v2a1/mono.m3u8?token=aA1Cec00jVXe5cWRA__agQ&expires=1758206217&user_id=OTJubGJvWGg4eWozazRyeFR0WEIyUGxzRlZiSjVPdFhKWVFCMzNJMw==
-
-#EXTGRP:Tims247 -
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://media.vanityfair.com/photos/610c083f0b170c6defc5ca9f/16:9/w_199" group-title="Tims247 - ",h_1124,c_limit/south-park-comedy-central.jpg" group-title="24/7 CHANNELS",24/7: South Park
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzLEAODUVGWghFE1sKEisPCxZCD14RRgELFhMJWBIUDlo=/index.m3u8
-
-#EXTGRP:Tims247 - 24/7 CHANNELS
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://files.catbox.moe/uat9ne.jpg" group-title="Tims247 - 24/7 CHANNELS",24/7: Bluey
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzGxIPWkUUD18TQTZbEBMBCxQTXQ4RFA9aExMLXhcVXQo=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://deadline.com/wp-content/uploads/2024/07/Dragon-Ball-Series_c42772.jpg" group-title="Tims247 - 24/7 CHANNELS",24/7: Dragon Ball Franchise
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzAgQMBRAUCQoDFxwdAxUcDBMFNh0bFx0ZBhAJHgAVCxk=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://deadline.com/wp-content/uploads/2024/07/Dragon-Ball-Series_c42772.jpg" group-title="Tims247 - 24/7 CHANNELS",24/7: Dragon Ball Franchise
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFBMaChYACh4UBggIAREKDRsRDh4UFxkKBhQbDgMQChw=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://deadline.com/wp-content/uploads/2024/07/Dragon-Ball-Series_c42772.jpg" group-title="Tims247 - 24/7 CHANNELS",24/7: Dragon Ball Franchise
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFwEPDSwWDAwDBg4PFxAYDRcRCgwsBBsIAAQIDBYcHA0=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://deadline.com/wp-content/uploads/2024/07/Dragon-Ball-Series_c42772.jpg" group-title="Tims247 - 24/7 CHANNELS",24/7: Dragon Ball Franchise
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzMgMJJwERLBsbN08MMg8NJlErVhoRMBEKOwUKKAZO/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://deadline.com/wp-content/uploads/2024/07/Dragon-Ball-Series_c42772.jpg" group-title="Tims247 - 24/7 CHANNELS",24/7: Dragon Ball Franchise
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzVBJeVxcWKSo1QVseUAQaXxVXW0lbEBouB1NbVgNACSk=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUwNjBkMmUtZjM2My00NmM4LTlmOWQtNWE5YTdmN2Y2MTgxXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg" group-title="Tims247 - 24/7 CHANNELS",24/7: Spongebob Squarepants
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzERMKDUcSCFlEQV8OR0JeBUEVCFoWF1oMEBwJMhYUXlg=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/abc_2.png" group-title="Tims247 - 24/7 CHANNELS",ABC
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzO0NeJUVNUQU5SFQtFUgLWE1GWi86Tg8yN0chKRc8Ci8=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.iview.abc.net.au/thumbs/i/X0_680b1678c94e5_1280.jpg" group-title="Tims247 - 24/7 CHANNELS",ABC TV
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFUIKWEEVDggUQzYJEBFaC0QVDAVHFgxZFBBcCkZDW1k=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="Tims247 - 24/7 CHANNELS",ACCN Network
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzGxUJBRcTCg1BQwkLEBcKDRNCDQtBQFoIF0BfDSwUDwU=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/axs.png" group-title="Tims247 - 24/7 CHANNELS",Axs TV
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzERUPDRARAV9EFgoNEEI2WxErCzIWK10MEhAJDhQXXQo=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/beinsport.png" group-title="Tims247 - 24/7 CHANNELS",Bein Sports USA
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzQUNcXhUWXQ4XFAgPGxYMBRYTCVkXQgsOEisPXkQUD18=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="Tims247 - 24/7 CHANNELS",Big Ten Network
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzRxcPCxAcWwwQRzZfEhZfCxAVCFgUQl8JGxNfCkFGCw8=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hd/boomerang-hd-us.png?raw=true" group-title="Tims247 - 24/7 CHANNELS",Boomerang
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFkMICEEWXgxEHAxZQRI2XxIRCA0XRw4PFxRbDxYSCgw=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bravo-us.png?raw=true" group-title="Tims247 - 24/7 CHANNELS",Bravo
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFxdbC0EXW1osEAlfEhMLCRUUCVkQFAkILCsLBUEQC18=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/cartoon.png" group-title="Tims247 - 24/7 CHANNELS",Cartoon Network
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzSBJeLk4GKgU2TV9IBE5IVEkwLCtXVRFSNUBQLTdGIRk=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/cbs.png" group-title="Tims247 - 24/7 CHANNELS",CBS
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzNBYhWzVDVg0RQ1tfTUcMWzFHUVgUSiMkNBIiL0UWCQ4=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/cbsgolazo.png" group-title="Tims247 - 24/7 CHANNELS",CBS Sports Golazo Network
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzAQBNJTVVUFsTTk1QMhEqXzkRVhkPNCIWNlcKRBU8Cl4=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/cbssports.png" group-title="Tims247 - 24/7 CHANNELS",CBS Sports Network
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzTwcKVAUVXkUbNRkLNQkJXlcTVxYXPksyR10MLVg3/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comedy-central-us.png?raw=true" group-title="Tims247 - 24/7 CHANNELS",Comedy Central
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFBUNDRMSNgsbQwsFEhQOWhAWX15BEAgORxUODhMcCVs=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comet-us.png?raw=true" group-title="Tims247 - 24/7 CHANNELS",Comet
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzG0NbCxBACw0sQA9YExw2DRVHDV4sQghZRhxcBRNHCAg=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/cw.png" group-title="Tims247 - 24/7 CHANNELS",CW
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzNz9aLRcQLQUTN1YJSTFdJE0SDwgsQVUlETcOJ0lCICc=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/dazn1.png" group-title="Tims247 - 24/7 CHANNELS",DAZN 1 UK
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzEhxeCixDXw8WK19fLBwPCRRAXF8bHF9ZEkJaCBNDXAw=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/03/17/1715300867054-64c720a301f24f34820b4c7143ff5bd2-1737996577673-1742219029838.webp?impolicy=resize&w=1920&h=1080" group-title="Tims247 - 24/7 CHANNELS",Dirtvision Now 24/7
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFREJWEAcNgoQRwoNFxNeCCwrWgkQEwwLFitaXxUrXg4=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-channel-us.png" group-title="Tims247 - 24/7 CHANNELS",Discovery Channel
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzQEcKBUVAClsVRg4OGxBdDBNBCAUQFF8FRxZfMkZBAVk=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/disney.png" group-title="Tims247 - 24/7 CHANNELS",Disney Channel
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzS1EMUwMUIBYUS08JRl4IW1ASIRwbMx4POFYKLFdO/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" group-title="Tims247 - 24/7 CHANNELS",Disney Junior
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFxxbC0dHDQsWEw0PEkABDUdGDQsSKw9bQUJaBUATCwo=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hd/disney-xd-hd-us.png?raw=true" group-title="Tims247 - 24/7 CHANNELS",Disney XD
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzRhRbCRFBNggTQV8JEUcNBRAcAVkTEQkIQUBdXhAVWww=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/espn.png" group-title="Tims247 - 24/7 CHANNELS",ESPN
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzNkxdJzUxVCcRPy9WNkELXktCXgpMQi4nORAuCUwWNg0=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-deportes-us.png" group-title="Tims247 - 24/7 CHANNELS",ESPN Deportes
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzEBBdXhsTXghEQwsyEEIPDhJADAlFQAxfEUcNWCwTD1o=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/espn2.png" group-title="Tims247 - 24/7 CHANNELS",ESPN2
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzOA8PKgIQVUgRRhcNS1cOV1oXVhgWPEgFRl4IKwQw/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/espnews.png" group-title="Tims247 - 24/7 CHANNELS",ESPNews
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzSgkBW1cXKkYTPBULRAYLKgorW0QUNR8MOVYNXlVO/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/espnu.png" group-title="Tims247 - 24/7 CHANNELS",ESPNU
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzMwwLKwETUhgWPkgMQFw2JlEcVh0XMBULTl0JW1Ax/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/flo.png" group-title="Tims247 - 24/7 CHANNELS",Floracing TV 24/7
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzGxEJDUcXClsTEjZZE0BdX0VDCgpBKw4IEhZfWxscCws=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox.png" group-title="Tims247 - 24/7 CHANNELS",FOX
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzMxUODDgxLiY5PwhSNBMIUjM8Lw4VElwOODdTK04TUlc=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-deportes-flat-us.png" group-title="Tims247 - 24/7 CHANNELS",Fox Deportes
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzEhFeDxcrXw5BEQ4KQRxbDRdGCTJEFF0LFhIJDBcQCVo=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-news-us.png" group-title="Tims247 - 24/7 CHANNELS",Fox News
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFUAOW0cVXgwsQQ4NGxcKDRQXCQlBQQFbFhcKW0YWW1k=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/foxsoccp.png" group-title="Tims247 - 24/7 CHANNELS",Fox Soccer Plus
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzNjcZXgs2Ty8LXlNZUEldGjU3Uw0IPF9SRU1bWTA0IUs=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox501.png" group-title="Tims247 - 24/7 CHANNELS",Fox Sports 501
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzEhcMMkYTDFgREwEMRxBeCxFDWgwRRgkJG0JdMhVGDw8=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox502.png" group-title="Tims247 - 24/7 CHANNELS",Fox Sports 502
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzRxIODUYQWloXFghaFxEOWkAVDwssQDZfFEZeXkQTNgo=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox503.png" group-title="Tims247 - 24/7 CHANNELS",Fox Sports 503
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFhI2MkFACAlFRjZYECsMCkBAXlkbEAteRBxfXywXCg4=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox504.png" group-title="Tims247 - 24/7 CHANNELS",Fox Sports 504
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzQEILBSwrWwoUFAEyExZfW0QQDQ5GHFtbRUIJDkAcWlg=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox505.png" group-title="Tims247 - 24/7 CHANNELS",Fox Sports 505
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFxMNChJCWlhGRg0NQBQPDRUSD18TEF0IE0IPDkErDgU=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox506.png" group-title="Tims247 - 24/7 CHANNELS",Fox Sports 506
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzQUA2WERGXg4RRwgPFisNDkVGDVtAQg0KFhVaCBRBNjI=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fs1.png" group-title="Tims247 - 24/7 CHANNELS",FS1
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzSBIgJzc3LSgRPixeRxdQCSw0XgoQSldeOTdWDkBGASo=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fs2.png" group-title="Tims247 - 24/7 CHANNELS",FS2
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzG0deWDMSVSRGFw0pNzE2CkpHL1QWNyFUTz5VU0kxIV4=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fubo.png" group-title="Tims247 - 24/7 CHANNELS",Fubo Sports Network
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzGxULBRtCW18bFg9eEUIODxQRWg4RQlwyRRQNDRcrXww=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.com/Ix28ePq.jpeg" group-title="Tims247 - 24/7 CHANNELS",Game Show Network
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzERABBUATD18WQg8yFhMIXhIXCQoQRgsyECtbDRFDXwo=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/history-channel-us.png?raw=true" group-title="Tims247 - 24/7 CHANNELS",History
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFRJbCxZGXgVFRwFZFhcMDUArWggTQAlbGxAPDUArDlg=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/laligatv.png" group-title="Tims247 - 24/7 CHANNELS",LaLiga TV
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzMkZSVzIRV18wMgkuTkApJhM2UyZFR1MoM0ApWhBGSAs=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.com/bvZ56Ev.jpeg" group-title="Tims247 - 24/7 CHANNELS",LFC TV
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFkNbWBJBXQkVQwFaFRYLWRATXgpHFg1eQRNbW0AUCQU=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/marquee.png" group-title="Tims247 - 24/7 CHANNELS",Marquee Sports Network
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzR0NaDUVGNgxFQjYFLBxeWkUTNg9HQAoJQRReMkArXwk=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true" group-title="Tims247 - 24/7 CHANNELS",MeTV
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFStaWxYWCloXFAEMGytdCRYWCgkQFA0JGxM2ChYTCww=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-toons-us.png?raw=true" group-title="Tims247 - 24/7 CHANNELS",MeTV Toons
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzRkANWiwVXAoURwsMEBwKMkdCXVkVFlpfRRYJBRJAW1g=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/mlb.png" group-title="Tims247 - 24/7 CHANNELS",MLB Network
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzRkEIXhcXCVlGFl0yRBBfCRASXgVBEl1YRhddDEdHNgg=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w2208/mlb/woyvpre5oo3s9zaby6r7.jpg" group-title="Tims247 - 24/7 CHANNELS",MLB Strikezone
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzLBYKWkAcXQ9FK14IG0MKBRYcXQ0sKwtZFhEJDRVBXTI=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/mtv.png" group-title="Tims247 - 24/7 CHANNELS",MTV
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzF0EKX0QRW18bHF8FRUIPBRMVCQ8WQlsJQEILWhsRCF8=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.com/tJ6jp2a.jpeg" group-title="Tims247 - 24/7 CHANNELS",MUTV
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzRUddWEBGNgVFE1sIEEMIDkUrD1kQQQFeFhIICBUSDQ8=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/nba.png" group-title="Tims247 - 24/7 CHANNELS",NBA TV
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzVhRbVRA9KSwwMiFfBjJMVDU8T0kVSRQVEANfSDVAKSg=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/nbc.png" group-title="Tims247 - 24/7 CHANNELS",NBC
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzTUYrE0wyLAgSMUotBABNX0cVKgpHRgFfORxaCxJNGSU=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" group-title="Tims247 - 24/7 CHANNELS",NBC GOLF
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzE0IMCxtDXAsbEw5YEhYIDxUWDgwTQwEIFStbDREUNlo=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/nbcbayarea.png" group-title="Tims247 - 24/7 CHANNELS",NBC Sports Bay Area
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFxcJDRIWDVgSEg5aG0ZaWkdCAVhAFQ5ZExc2DxUXXAk=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://media.nbcsportsboston.com/2023/04/Boston-Landmark.png?fit=3840%2C2160&quality=85&strip=all" group-title="Tims247 - 24/7 CHANNELS",NBC Sports Boston
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzAAE2DRIcNh0REw0MLBcOGAMQGwgWEw4LEhcYHwcUHB0=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.com/Q9Uv160.jpeg" group-title="Tims247 - 24/7 CHANNELS",NBC Sports California
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzRkcKDEAcDQ1AETZeFBBbCCxGCwkTFFtZLEZeWUYWDgw=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://media.nbcsportsphiladelphia.com/2023/04/Philly-Landmark.png?fit=3840%2C2160&quality=85&strip=all" group-title="Tims247 - 24/7 CHANNELS",NBC Sports Philadelphia
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzQBcMWRYXXgksEFwLFUEBWRFHWw8VQAhaESsLC0QrXg8=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/nfl.png" group-title="Tims247 - 24/7 CHANNELS",NFL Network
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzMjdbLgc1SlBHNxEPDUsIUg0wDCsyNw1aNU8pJg0xSi0=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://d15yx0mnc9teae.cloudfront.net/sites/default/files/NFLN_RZ_2022_16x9_Red_Delivery_Retouch.jpg" group-title="Tims247 - 24/7 CHANNELS",NFL Redzone
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzEkEODUQSXAVBQlpYEkJaXkYXAVpHFQ1ZRkILCkdAATI=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true" group-title="Tims247 - 24/7 CHANNELS",Nick Jr.
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFhFeDUYrCVosRl0NFkcLCkUXXwVAQAoLQBdaCBMcXTI=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nickelodeon-us.png?raw=true" group-title="Tims247 - 24/7 CHANNELS",Nickelodeon
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzRSsPXxcSC1osRgxbQRMMDUETC1pHEQtfQRReWEQVXV4=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="Tims247 - 24/7 CHANNELS",Nicktoons
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzRUNeCUAWCQkUFwoMRxILDkFHDVsTQl0IRkAJDRsRNl4=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/permier1.png" group-title="Tims247 - 24/7 CHANNELS",Premier Sports 1 IE
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzQQANWFYcIxoSMhAKS1UJJltLD1oJFykWFkpOD0cF/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/permier2.png" group-title="Tims247 - 24/7 CHANNELS",Premier Sports 2 IE
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzN14JXloRXR0UNxUPO1YPVw4cUkoSNR0JSlI2UAVD/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/racer-network-us.png" group-title="Tims247 - 24/7 CHANNELS",Racer Network
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzEhFeCUYcXAlGHF0OE0E2XxUWWwUQRw8FEUENBUQUDQo=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/rally.png" group-title="Tims247 - 24/7 CHANNELS",Rally TV
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzRF4ILFETLxwXPxANOwkMXwgWLR8VSkAyNFcBWARO/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.namu.wiki/i/ygQVrSuCRUYZpYkvGb_KBAfxv50URD-h-zbu67Vzes0t9BSREUvB-C7Wgi7-LVsXnB9Z6so3ZpTYZHnUnVWqag.webp" group-title="Tims247 - 24/7 CHANNELS",Real Madrid TV
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzRUZcCBscWwwUQQxaEBYJDEBADV8SQl9fQBVfC0QrDwg=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportnz.png" group-title="Tims247 - 24/7 CHANNELS",Sky Sport 1 NZ
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFEMBXhZACFgTQgpfFRMBMkQWWwlAFF0KRhJfCEQXWw8=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportnz.png" group-title="Tims247 - 24/7 CHANNELS",Sky Sport 2 NZ
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzQRRaDEcWXA5FEF4IQRJaCkccXDJFFF4MQRZaDkcQXAg=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportnz.png" group-title="Tims247 - 24/7 CHANNELS",Sky Sport 3 NZ
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFUIOWhtGNl4TQAhYEUIKWhdGDF4VQA5YG0I2WhNGCF4=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportnz.png" group-title="Tims247 - 24/7 CHANNELS",Sky Sport 4 NZ
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFhJeCUBDDg0XFwpYEBcIXkYSXQ1EFQFYFBUIX0cUAV4=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportnz.png" group-title="Tims247 - 24/7 CHANNELS",Sky Sport 5 NZ
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzG0Y2XhNACFgRQgpaF0YMXhVADlgbQjZaE0YIXhFAClg=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportnz.png" group-title="Tims247 - 24/7 CHANNELS",Sky Sport 6 NZ
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzRBRfDEYWXQ5AEFsIGxMPChYQCg8SFDZaRUFdXkEcDgs=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportnz.png" group-title="Tims247 - 24/7 CHANNELS",Sky Sport 7 NZ
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzF0YMXhVADlgbQjZaE0YIXhFAClgXQgxaFUYOXhtANlg=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportnz.png" group-title="Tims247 - 24/7 CHANNELS",Sky Sport 8 NZ
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzRRUNDREVAQ0XQF4NRREPCxccNgkTQFtZFCtaDhIVDwk=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportnz.png" group-title="Tims247 - 24/7 CHANNELS",Sky Sport 9 NZ
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFkZdWxYVXVsUFwgOQUJfChVDCVtGRlxeFhJcCUERNl8=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skybundesliga.png" group-title="Tims247 - 24/7 CHANNELS",Sky Sport Bundesliga
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzOzdbU0UwKFdHNzYpO04uUEAcUB03QipQRgosVDNDWyk=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skygp.png" group-title="Tims247 - 24/7 CHANNELS",Sky Sport MotoGP
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzE0AMWhcWXgkWEFtaERdaDywcAVgSE1tYQEYBChEQAQ0=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-top-event-alt-de.png?raw=true" group-title="Tims247 - 24/7 CHANNELS",Sky Sport Top Event
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzRxMJBUYXDw4QEVsFExxcChZCWl8bRgoME0YPCUUTAQw=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportsaction.png" group-title="Tims247 - 24/7 CHANNELS",Sky Sports Action
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzOzdbDDtJKl9WN18lMAQhLUpJLVcBNzZRVTUeUDc8L1k=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skycricket.png" group-title="Tims247 - 24/7 CHANNELS",Sky Sports Cricket
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzSBAqKxZOXRozQ0oTN0ItLElBX1kWFyEyNxJUVTMTKSg=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skyf1.png" group-title="Tims247 - 24/7 CHANNELS",Sky Sports F1
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFBMOCRIrXg8WQFwFEEANWEEXXQsTQ1xYRxRbCURAAV4=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skyfootball.png" group-title="Tims247 - 24/7 CHANNELS",Sky Sports Football
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzODIhD0FeVF4zN1tMQVAsS1IXKQkwNCgaTkcqLTc1Xyo=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skygolf.png" group-title="Tims247 - 24/7 CHANNELS",Sky Sports Golf
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzSDIaV1kEI19bSVIdNgMNCTUwIQw3XClVCwkRDhtIEUc=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skymainevent.png" group-title="Tims247 - 24/7 CHANNELS",Sky Sports Main Event
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzEDdfSTYEXV8EMipfVzERWRE0Dy4NQUodMjcdJxJMVBw=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skymix.png" group-title="Tims247 - 24/7 CHANNELS",Sky Sports Mix
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzMk0ZVk4XIVsVTiEyQUxTKA01Ki0UV1RZMDQsLjVDKls=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportnews.png" group-title="Tims247 - 24/7 CHANNELS",Sky Sports News
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzWE5ILjMxKldQSS0sSTdTHDAMCC1SNylWM00ZWjBCLB0=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skyleague.png" group-title="Tims247 - 24/7 CHANNELS",Sky Sports Premier League
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzNzxbLDAQUlAyA1NYMEleThYQKVpQTg5fLE4sGgsRKVk=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skyracing.png" group-title="Tims247 - 24/7 CHANNELS",Sky Sports Racing
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzOhAaLUY3VAhQNAgNUFIoLjVBHU8DAUpLVgBeFlJNX1k=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skytennis.png" group-title="Tims247 - 24/7 CHANNELS",Sky Sports Tennis
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzMgQNLkVfLylSBC5XNzUpDRZNT14SQg0sQU1UKEoPGAw=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skyplus.png" group-title="Tims247 - 24/7 CHANNELS",Sky Sports+
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzT0kJDQtIFylbBExOFEEvJElcKhM5TiguB1dUDEoPIA4=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.nba.com/teams/uploads/sites/1610612747/2023/10/2324_lal_product_ssn_generic_article_1130x635.jpg" group-title="Tims247 - 24/7 CHANNELS",Spectrum Sportsnet Lakers
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzEytfBRISD18sEg4OGxwJWRRAX1oWFjYIE0c2CRFBCjI=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tbs.png" group-title="Tims247 - 24/7 CHANNELS",TBS
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzMjcSXjARLBoIMykmTkBfVAhHKhVAEF0uVRVbJTNIVB8=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/teen-nick-us.png?raw=true" group-title="Tims247 - 24/7 CHANNELS",Teen Nick
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzRxJbWhQWD1gSQ15bQRNdCxcUDwlGHAEORRdcCEEVW18=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tennischannel.png" group-title="Tims247 - 24/7 CHANNELS",Tennis Channel
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFhIJCBAXXVhGQA9bRRYJCRRBCwwbFF0KFEJdCkEUWw0=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tnt.png" group-title="Tims247 - 24/7 CHANNELS",TNT
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzUU5aWw8ETQsIUEFXNgNUJQ1BTw4zP1teTk8ORjVLFw4=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tntsport.png" group-title="Tims247 - 24/7 CHANNELS",TNT Sports 1
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzBjcpWlVBSlBINBsWRjcvG1VBSgwbEBFaSTBMUDdcCSU=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tntsport.png" group-title="Tims247 - 24/7 CHANNELS",TNT Sports 2
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzRxAoVDUxHktPNCxUTjxKK0ZXFwowNC1fVxYYCBBOVlc=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tntsport.png" group-title="Tims247 - 24/7 CHANNELS",TNT Sports 3
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzVzRcLgsxFwlbQktbBjdbHlA0S18bKzZbVzwMCgscEhs=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tntsport.png" group-title="Tims247 - 24/7 CHANNELS",TNT Sports 4
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFEItVw8SGE5BMRFPEUAZWEE9XykRFyxbNwxaLg01Fyw=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/trutv.png" group-title="Tims247 - 24/7 CHANNELS",TruTV
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFhYOMhtGDAhFFQwPQRwKMkZDXQtAQApaEBUBBSwSXAg=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tsn.png" group-title="Tims247 - 24/7 CHANNELS",TSN 1
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzEEYJXhJAC1gXQgxaFRMBMkEUWgxHFlwORRBeCBUTATI=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tsn.png" group-title="Tims247 - 24/7 CHANNELS",TSN 2
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFEcBWSxBCVsSQwtfEEcNWRZBD1sUQwEyQRRaDEcWXA4=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tsn.png" group-title="Tims247 - 24/7 CHANNELS",TSN 3
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzRRBeCEESWgpHHFwyRRReDEEWWg5HEFwIRRJeChsrWw0=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tsn.png" group-title="Tims247 - 24/7 CHANNELS",TSN 4
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzRxZcDkUQXghBEloKRxxcMkUUXgxBFloORxBcCEUSXgo=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tsn.png" group-title="Tims247 - 24/7 CHANNELS",TSN 5
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFEY2XhNACFgRQgpaF0YMXhVADlgbQjZaE0YIXhFAClg=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tudn.png" group-title="Tims247 - 24/7 CHANNELS",TUDN
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzERwPWxtANglEF19ZFBxcWhIQDl9GEFwNGxJaCUVAAQ4=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tyc.png" group-title="Tims247 - 24/7 CHANNELS",TYC Sports Internacional
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzRwQIHUcPLSw1QB1TCxINMghAElU1PRkYUBxSSxVXVFI=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/ufcfightpass.png" group-title="Tims247 - 24/7 CHANNELS",UFC Fight Pass TV
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzVzUXLDUwSC06Th9XSgBCFVkMLFRJDl8mMzcSJyw8KhM=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/unimas-us.png" group-title="Tims247 - 24/7 CHANNELS",Unimas
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzLCsNCUARCAhGQV9eQUFdDEUUCwlEQ11aRRYOW0YXCg0=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/univision-us.png" group-title="Tims247 - 24/7 CHANNELS",Univision
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzQRENDBAUDlsRRwgIRBQMWEUrXQVFKwEyQBBdWBFCXQw=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/usanetwork.png" group-title="Tims247 - 24/7 CHANNELS",USA Network
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzMjcXXgtLUxwzQA9QNk4iGQUALktXNRIpNkYbUE1JWi4=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/vice.png" group-title="Tims247 - 24/7 CHANNELS",Vice
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzRhYIWBNCDgUVHAxeRytfWxRHXg1BFQkIQEcLWkEVW1s=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/willow.png" group-title="Tims247 - 24/7 CHANNELS",Willow Cricket
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzRBJcWRdAWgkTFQkLR0MOW0ZGDg1AQA1fFBUIXxMQCgo=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="Tims247 - 24/7 CHANNELS",Yes Network
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzRRQLCRVDWgpHFlsIFRYPChIVWgpEQwoPECs2XhZDNg4=/index.m3u8
-
-#EXTGRP:Tims247 - EVENTS
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.gg/DfLjmQi-b859487e-e705-4c32-993f-10b39721751e.jpg" group-title="Tims247 - EVENTS",Big Brother 27: Camera Feeds
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzERENXxQTDgpGEQ0OREBcD0cQCl5HFQEOF0JfDBAVCFo=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.gg/DfLjmQi-b859487e-e705-4c32-993f-10b39721751e.jpg" group-title="Tims247 - EVENTS",Big Brother 27: Camera Feeds
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzFRRdMiwSCA4SFQgyFRcNCRJGCg0VFw5fFRxbDBFAXw9T/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.gg/DfLjmQi-b859487e-e705-4c32-993f-10b39721751e.jpg" group-title="Tims247 - EVENTS",Big Brother 27: Camera Feeds
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzG0INDhIXX1kWEAkKFEYLDxcUXl4bEw4MExEJDBZBCg0=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.gg/DfLjmQi-b859487e-e705-4c32-993f-10b39721751e.jpg" group-title="Tims247 - EVENTS",Big Brother 27: Camera Feeds
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzGxwBXxUXC1pHFQ1bEEZbXhUcW1pAQQwFG0NfXhESXQg=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.gg/DfLjmQi-b859487e-e705-4c32-993f-10b39721751e.jpg" group-title="Tims247 - EVENTS",Big Brother 27: Camera Feeds
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzQRcKX0VDCQoREA1aEBxcCxtACAlGFwkMEUBfWBQTDQo=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/z5sr2q1748641059.jpg" group-title="Tims247 - EVENTS",Chargers vs Raiders
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzNkxdJzUxVCcRPy9WNkELXktCXgpMQi4nORAuCUwWNg0=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://vhx.imgix.net/olympiatv/assets/795ac91a-22a3-4c9b-bd4f-6c258a99d558.jpg" group-title="Tims247 - EVENTS",Mr Olympia 2025: Tues Finals - Amateur Olympia
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzF0EJWhATDAoVEVoNLEdcX0USCF4sQl4MRCs2MkQXNlg=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://vhx.imgix.net/olympiatv/assets/2b92d1b6-b376-4424-bf18-e33cb4b7e8fa.jpg" group-title="Tims247 - EVENTS",Mr Olympia 2025: Tues Prejudging - Amateur Olympia
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzEBcNXhEVXQ1GHAkMRkYPDUdACA9FKzYPRkEKChMWAVo=/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/d75ejm1748641017.jpg" group-title="Tims247 - EVENTS",Texans vs Buccaneers
-#EXTVLCOPT:http-origin=https://kleanplay.shop
-#EXTVLCOPT:http-referrer=https://kleanplay.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://world-proxifier.xyz/tims/p/TSwoMjAAMy1IVFtBSyguMyldWkYqX1NAQlwzNkxdJzUxVCcRPy9WNkELXktCXgpMQi4nORAuCUwWNg0=/index.m3u8
 
 #EXTGRP:TubiTV
 #EXTINF:-1  tvg-id="400000096" tvg-logo="https://canvas-lb.tubitv.com/opts/ca2EvME4kxBv3g==/f96dfd36-d049-4c63-ae07-410f192f18b6/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",A&E Crime 360
