@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged2_epg.xml.gz"
 
-#EXTGRP:24/7 by Mystique
-#EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png" group-title="24/7 by Mystique" radio="false",Amphibia 24/7
+#EXTGRP:24/7 by DrewLive
+#EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png" group-title="24/7 by DrewLive" radio="false",Amphibia 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/511232.ts
-#EXTINF:-1  tvg-name="BBC Top Gear 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Top-Gear-Logo-2002.png" group-title="24/7 by Mystique" radio="false",BBC Top Gear 24/7
+#EXTINF:-1  tvg-name="BBC Top Gear 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Top-Gear-Logo-2002.png" group-title="24/7 by DrewLive" radio="false",BBC Top Gear 24/7
 https://apollo.production-public.tubi.io/live/ac-bbc-top-gear2.m3u8
-#EXTINF:-1  tvg-name="Cobra Kai 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://th.bing.com/th/id/OIP.eIWgGiNDMRAub5bbL0FA7gHaEK?rs=1&pid=ImgDetMain" group-title="24/7 by Mystique" radio="false",Cobra Kai 24/7
+#EXTINF:-1  tvg-name="Cobra Kai 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://th.bing.com/th/id/OIP.eIWgGiNDMRAub5bbL0FA7gHaEK?rs=1&pid=ImgDetMain" group-title="24/7 by DrewLive" radio="false",Cobra Kai 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/30731.ts
-#EXTINF:-1  tvg-name="Family Guy 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://www.pngmart.com/files/15/Family-Guy-Logo-PNG-Image-420x236.png" group-title="24/7 by Mystique" radio="false",Family Guy 24/7
+#EXTINF:-1  tvg-name="Family Guy 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://www.pngmart.com/files/15/Family-Guy-Logo-PNG-Image-420x236.png" group-title="24/7 by DrewLive" radio="false",Family Guy 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
 
 #EXTGRP:AriaPlus - Aria Web Channels
@@ -3518,6 +3518,24 @@ http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Net
 #EXTINF:-1  tvg-name="Dragon Ball Z - S01E25 - Stop Vegeta Now!" tvg-id="24.7.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/dragonball/images/2/27/Z_ep_24.jpg/revision/latest?cb=20110509001329" group-title="DrewLive Anime - DBZ" radio="false",Dragon Ball Z - S01E25 - Stop Vegeta Now!
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Dragon%20Ball%20Z/Season%201/Dragon%20Ball%20Z%20-%20S01E25%20-%20Stop%20Vegeta%20Now!.mp4
 
+#EXTGRP:DrewLive Caribbean
+#EXTINF:-1  tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title="DrewLive Caribbean" radio="false",CVM (Jamaica)
+http://1tv41.icu:8080/5ZCJFs/416986/66371
+#EXTINF:-1  tvg-name="JNN" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://grassrootsjusticenetwork.org/wp-content/uploads/2018/08/jn_plus_logo_website.png" group-title="DrewLive Caribbean" radio="false",JNN (Jamaica)
+http://1tv41.icu:8080/5ZCJFs/416986/99566
+#EXTINF:-1  tvg-name="RETV" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.siliconcaribe.com/wp-content/uploads/2008/07/retv-logo.jpg" group-title="DrewLive Caribbean" radio="false",RETV (Jamaica)
+http://1tv41.icu:8080/5ZCJFs/416986/21094
+#EXTINF:-1  tvg-name="RUSH Sports" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/caribbean/rush-car.png?raw=true" group-title="DrewLive Caribbean" radio="false",RUSH Sports (Any Caribbean Country)
+http://1tv41.icu:8080/5ZCJFs/416986/100043
+#EXTINF:-1  tvg-name="SPORTSMAX 2" tvg-id="SPORTSMAX2.jm" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/caribbean/jamaica/sportsmax-2-hz-jm.png?raw=true" group-title="DrewLive Caribbean" radio="false",SPORTSMAX 2 (Any Caribbean Country)
+http://1tv41.icu:8080/5ZCJFs/416986/119471
+#EXTINF:-1  tvg-name="TV Direct 13" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.cur.watch/images/kodi_icon.png" group-title="DrewLive Caribbean" radio="false",TV Direct 13 (Curaçao)
+http://1tv41.icu:8080/5ZCJFs/416986/216085
+#EXTINF:-1  tvg-name="TVJ" tvg-id="Television.Jamaica.jm" tvg-logo="https://outsource2jamaica.com/wp-content/uploads/2021/05/Television-Jamaica-Limited-TVJ.png" group-title="DrewLive Caribbean" radio="false",TVJ (Jamaica)
+http://1tv41.icu:8080/5ZCJFs/416986/78918
+#EXTINF:-1  tvg-name="TVJ Sports" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.reggaemarathon.com/wp-content/uploads/2019/03/tvj-sports-logo.png" group-title="DrewLive Caribbean" radio="false",TVJ Sports (Jamaica)
+http://1tv41.icu:8080/5ZCJFs/416986/66077
+
 #EXTGRP:DrewLive Fan Made TV
 #EXTINF:-1  tvg-name="Cannabis Grow" tvg-id="24.7.Dummy.us" tvg-logo="https://grow.dwot.io/logo" group-title="DrewLive Fan Made TV" radio="false",Cannabis Grow
 https://grow.dwot.io/hls/1/stream.m3u8?cachebust=7ad5acb5
@@ -6344,24 +6362,6 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999206
 https://amg00497-amg00497c4-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c4-amgplt0023/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.url=[URL]&ads.ic=[IC]&ads.coppa=[COPPA]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99993020/600x200.png?type=white_cropped" group-title="LGTV USA",She Wrote
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993020/hls/master.m3u8?ads.xumo_channelId=99993020&ads.asnw=169843&ads.afid=380744959&ads.sfid=17538085&ads.csid=lgchannels_us_nbcumurdershewrote_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tvg&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3927&ads.xumo_contentName=NBCUMurderSheWrote&ads.xumo_providerId=3927&ads.xumo_providerName=NBCUMurderSheWrote&ads.channelId=99993020&ads._fw_ifa_type=dpid
-
-#EXTGRP:Mystique Caribbean
-#EXTINF:-1  tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title="Mystique Caribbean" radio="false",CVM (Jamaica)
-http://1tv41.icu:8080/5ZCJFs/416986/66371
-#EXTINF:-1  tvg-name="JNN" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://grassrootsjusticenetwork.org/wp-content/uploads/2018/08/jn_plus_logo_website.png" group-title="Mystique Caribbean" radio="false",JNN (Jamaica)
-http://1tv41.icu:8080/5ZCJFs/416986/99566
-#EXTINF:-1  tvg-name="RETV" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.siliconcaribe.com/wp-content/uploads/2008/07/retv-logo.jpg" group-title="Mystique Caribbean" radio="false",RETV (Jamaica)
-http://1tv41.icu:8080/5ZCJFs/416986/21094
-#EXTINF:-1  tvg-name="RUSH Sports" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/caribbean/rush-car.png?raw=true" group-title="Mystique Caribbean" radio="false",RUSH Sports (Any Caribbean Country)
-http://1tv41.icu:8080/5ZCJFs/416986/100043
-#EXTINF:-1  tvg-name="SPORTSMAX 2" tvg-id="SPORTSMAX2.jm" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/caribbean/jamaica/sportsmax-2-hz-jm.png?raw=true" group-title="Mystique Caribbean" radio="false",SPORTSMAX 2 (Any Caribbean Country)
-http://1tv41.icu:8080/5ZCJFs/416986/119471
-#EXTINF:-1  tvg-name="TV Direct 13" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.cur.watch/images/kodi_icon.png" group-title="Mystique Caribbean" radio="false",TV Direct 13 (Curaçao)
-http://1tv41.icu:8080/5ZCJFs/416986/216085
-#EXTINF:-1  tvg-name="TVJ" tvg-id="Television.Jamaica.jm" tvg-logo="https://outsource2jamaica.com/wp-content/uploads/2021/05/Television-Jamaica-Limited-TVJ.png" group-title="Mystique Caribbean" radio="false",TVJ (Jamaica)
-http://1tv41.icu:8080/5ZCJFs/416986/78918
-#EXTINF:-1  tvg-name="TVJ Sports" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.reggaemarathon.com/wp-content/uploads/2019/03/tvj-sports-logo.png" group-title="Mystique Caribbean" radio="false",TVJ Sports (Jamaica)
-http://1tv41.icu:8080/5ZCJFs/416986/66077
 
 #EXTGRP:PlexTV
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="PlexTV",123GO!
