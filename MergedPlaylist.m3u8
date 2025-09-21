@@ -3527,11 +3527,26 @@ http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Zack.and.Miri.Make.a.Porno.2
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Zombieland.2009.1080p.BluRay.DDP.7.1.x265-edge2020.mkv
 
 #EXTGRP:FSTV
+#EXTINF:-1 tvg-id="LA.LIGA.za" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="FSTV",La Liga TV UK
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/usa-usanetwork.m3u8?auth_key=1758461574-b9a4a19eac59d9a82cf2402fedfbbd3b-00000000000000000000000000000000-8deae09852cf8ab8e936242c637f135c
+#EXTINF:-1 tvg-id="MLB.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="FSTV",MLB Network
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/usa-usanetwork.m3u8?auth_key=1758462391-b9a4a19eac59d9a82cf2402fedfbbd3b-00000000000000000000000000000000-362850d2ba9df4e6b595ade3a0db189d
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="FSTV",TNT Sports 1
+#EXTVLCOPT:http-origin=https://fstv.space/
+#EXTVLCOPT:http-referrer=https://fstv.space/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://o4.sundaytueday.online/usa-usanetwork.m3u8?auth_key=1758461438-b9a4a19eac59d9a82cf2402fedfbbd3b-00000000000000000000000000000000-21ad3edbe8bacd65d009845830f7d472
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://live-tv.b-cdn.net/logos/channels/0cdnusausanetwork-sv3.png" group-title="FSTV",USA Network
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/usa-usanetwork.m3u8?auth_key=1758457656-3348d7d529acff346ecc21dd003fe030-00000000000000000000000000000000-e822e93b8773783b2b04f351812da085
+https://o4.sundaytueday.online/usa-usanetwork.m3u8?auth_key=1758461037-b9a4a19eac59d9a82cf2402fedfbbd3b-00000000000000000000000000000000-f01afa13126c80633c8e0d613ee9147e
 
 #EXTGRP:JapanTV
 #EXTINF:-1 group-title="JapanTV" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC
