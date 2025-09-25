@@ -2987,6 +2987,11 @@ http://1tv41.icu:8080/5ZCJFs/416986/78918
 http://1tv41.icu:8080/5ZCJFs/416986/66077
 
 #EXTGRP:DrewLive Fan Made TV
+#EXTINF:-1  tvg-name="24/7 Horror Movie Marathon 👻🔥" tvg-id="24.7.Dummy.us" tvg-logo="https://1a-1791.com/video/z0/q/M/o/V/qMoVq.asF-4n6v0w-t2xaih.jpeg" group-title="DrewLive Fan Made TV" radio="false",24/7 Horror Movie Marathon 👻🔥
+#EXTVLCOPT:http-origin=https://rumble.com
+#EXTVLCOPT:http-referrer=https://rumble.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://rumble.com/live-hls-dvr/6x6r7c/playlist.m3u8
 #EXTINF:-1  tvg-name="Cannabis Grow" tvg-id="24.7.Dummy.us" tvg-logo="https://grow.dwot.io/logo" group-title="DrewLive Fan Made TV" radio="false",Cannabis Grow
 https://grow.dwot.io/hls/1/stream.m3u8?cachebust=7ad5acb5
 #EXTINF:-1  tvg-name="Drew Live" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Trunks.png" group-title="DrewLive Fan Made TV" radio="false",Drew Live
