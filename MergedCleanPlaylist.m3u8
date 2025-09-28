@@ -4956,7 +4956,7 @@ https://ca01.utako.moe/homedrama/index.m3u8
 #EXTINF:-1 group-title="JapanTV" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png", Home Drama Channel (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs05
 #EXTINF:-1 group-title="JapanTV" tvg-id="jcom_bs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119", JCOM BS (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs31
+https://proxy.utako.moe/ph.php?&isp=2&id=bs31
 #EXTINF:-1 group-title="JapanTV" tvg-id="jidaigeki" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jidaigeki.png", Jidaigeki Senmon (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs04
 #EXTINF:-1 group-title="JapanTV" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
@@ -5097,6 +5097,8 @@ https://mt01.utako.moe/TV_Asahi/index.m3u8
 https://ca01.utako.moe/ex_ch1/index.m3u8
 #EXTINF:-1 group-title="JapanTV" tvg-id="tv_asahi_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-2-jp.png",TV Asahi Channel 2
 https://ca01.utako.moe/ex_ch2/index.m3u8
+#EXTINF:-1 group-title="JapanTV" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi HD (Primehome)
+https://proxy.utako.moe/ph.php?&isp=1&id=hdgd06
 #EXTINF:-1 group-title="JapanTV" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka
 https://mt01.utako.moe/tvo/index.m3u8
 #EXTINF:-1 group-title="JapanTV" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka (Primehome)
