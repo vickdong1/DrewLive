@@ -1,42 +1,38 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged2_epg.xml.gz"
 
 #EXTGRP:24/7 by DrewLive
-#EXTINF:-1  tvg-name="Amphibia 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Amphibia-Logo-2048x1152.png" group-title="24/7 by DrewLive" radio="false",Amphibia 24/7
-http://user.scalecdn.co:8080/live/26725074/92867131/511232.ts
-#EXTINF:-1  tvg-name="BBC Top Gear 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Top-Gear-Logo-2002.png" group-title="24/7 by DrewLive" radio="false",BBC Top Gear 24/7
-https://apollo.production-public.tubi.io/live/ac-bbc-top-gear2.m3u8
-#EXTINF:-1  tvg-name="Big Brother (US) 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Big_Brother_%28US%29_2020.png/revision/latest?cb=20240713192137" group-title="24/7 by DrewLive" radio="false",Big Brother (US) 24/7
-http://user.scalecdn.co:8080/live/26725074/92867131/513472.ts
-#EXTINF:-1  tvg-name="Bones 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bones_2005_logo.svg/1000px-Bones_2005_logo.svg.png" group-title="24/7 by DrewLive" radio="false",Bones 24/7
-http://user.scalecdn.co:8080/live/26725074/92867131/511290.ts
-#EXTINF:-1  tvg-name="Cobra Kai 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://th.bing.com/th/id/OIP.eIWgGiNDMRAub5bbL0FA7gHaEK?rs=1&pid=ImgDetMain" group-title="24/7 by DrewLive" radio="false",Cobra Kai 24/7
-http://user.scalecdn.co:8080/live/26725074/92867131/30731.ts
-#EXTINF:-1  tvg-name="Family Guy 2" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/FamilyGuy.png" group-title="24/7 by DrewLive",Family Guy 2
-http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
-#EXTINF:-1  tvg-name="Family Guy 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://www.pngmart.com/files/15/Family-Guy-Logo-PNG-Image-420x236.png" group-title="24/7 by DrewLive" radio="false",Family Guy 24/7
-http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
-#EXTINF:-1  tvg-name="Family Guy 3" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/FamilyGuy2.png" group-title="24/7 by DrewLive",Family Guy 3
+#EXTINF:-1  tvg-name="Family Guy" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/FamilyGuy2.png" group-title="24/7 by DrewLive" radio="false",Family Guy
 http://cord-cutter.net:8080/hq3y4G/234247/66317
+#EXTINF:-1  tvg-name="Friends" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Friends.png" group-title="24/7 by DrewLive" radio="false",Friends
+http://cord-cutter.net:8080/hq3y4G/234247/66407
 #EXTINF:-1  tvg-name="Friends" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Friends.png" group-title="24/7 by DrewLive",Friends
 http://cord-cutter.net:8080/hq3y4G/234247/66407
-#EXTINF:-1  tvg-name="House M.D. 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/House_logo.svg/1200px-House_logo.svg.png" group-title="24/7 by DrewLive" radio="false",House M.D. 24/7
-http://user.scalecdn.co:8080/live/26725074/92867131/511530.ts
+#EXTINF:-1  tvg-name="Looney Tunes" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Looney.png" group-title="24/7 by DrewLive" radio="false",Looney Tunes
+http://cord-cutter.net:8080/hq3y4G/234247/125638
 #EXTINF:-1  tvg-name="Looney Tunes" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Looney.png" group-title="24/7 by DrewLive",Looney Tunes
 http://cord-cutter.net:8080/hq3y4G/234247/125638
-#EXTINF:-1  tvg-name="NCIS 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkDnj6qL5roQCybbwDc4MMrL2GPrE30HfDhQ&s" group-title="24/7 by DrewLive" radio="false",NCIS 24/7
-http://user.scalecdn.co:8080/live/26725074/92867131/330963.ts
+#EXTINF:-1  tvg-name="Rick & Morty" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rick%26Morty.png" group-title="24/7 by DrewLive" radio="false",Rick & Morty
+http://cord-cutter.net:8080/hq3y4G/234247/66302
 #EXTINF:-1  tvg-name="Rick & Morty" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rick%26Morty.png" group-title="24/7 by DrewLive",Rick & Morty
 http://cord-cutter.net:8080/hq3y4G/234247/66302
+#EXTINF:-1  tvg-name="Ridiculousness" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Ridiculousness.png" group-title="24/7 by DrewLive" radio="false",Ridiculousness
+http://cord-cutter.net:8080/hq3y4G/234247/66397
 #EXTINF:-1  tvg-name="Ridiculousness" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Ridiculousness.png" group-title="24/7 by DrewLive",Ridiculousness
 http://cord-cutter.net:8080/hq3y4G/234247/66397
+#EXTINF:-1  tvg-name="Seinfeld" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Seinfeld.png" group-title="24/7 by DrewLive" radio="false",Seinfeld
+http://cord-cutter.net:8080/hq3y4G/234247/66303
 #EXTINF:-1  tvg-name="Seinfeld" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Seinfeld.png" group-title="24/7 by DrewLive",Seinfeld
 http://cord-cutter.net:8080/hq3y4G/234247/66303
+#EXTINF:-1  tvg-name="South Park" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/SouthPark.png" group-title="24/7 by DrewLive" radio="false",South Park
+http://cord-cutter.net:8080/hq3y4G/234247/66401
 #EXTINF:-1  tvg-name="South Park" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/SouthPark.png" group-title="24/7 by DrewLive",South Park
 http://cord-cutter.net:8080/hq3y4G/234247/66401
-#EXTINF:-1  tvg-name="SpongeBob SquarePants 24/7" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/SpongeBob_SquarePants_logo_by_Nickelodeon.svg/1200px-SpongeBob_SquarePants_logo_by_Nickelodeon.svg.png" group-title="24/7 by DrewLive" radio="false",SpongeBob SquarePants 24/7
-http://user.scalecdn.co:8080/live/26725074/92867131/42118.ts
+#EXTINF:-1  tvg-name="The Golden Girls" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/TheGoldenGirls.png" group-title="24/7 by DrewLive" radio="false",The Golden Girls
+http://cord-cutter.net:8080/hq3y4G/234247/120948
 #EXTINF:-1  tvg-name="The Golden Girls" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/TheGoldenGirls.png" group-title="24/7 by DrewLive",The Golden Girls
 http://cord-cutter.net:8080/hq3y4G/234247/120948
+#EXTINF:-1  tvg-name="The King Of Queens" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/King_of_Queens_logo.png" group-title="24/7 by DrewLive" radio="false",The King Of Queens
+http://cord-cutter.net:8080/hq3y4G/234247/79567
 #EXTINF:-1  tvg-name="The King Of Queens" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/King_of_Queens_logo.png" group-title="24/7 by DrewLive",The King Of Queens
 http://cord-cutter.net:8080/hq3y4G/234247/79567
 
@@ -3405,7 +3401,7 @@ https://rhine.webchnl.live/memfs/ac0f016c-e39c-4fa5-885d-b90aec65b076.m3u8
 
 #EXTGRP:DrewLive Music Video Channels
 #EXTINF:-1  tvg-name="iHeartRadio Hip Hop Beats (DrewLive)" tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/9995103/600x337.webp?type=channelTile" group-title="DrewLive Music Video Channels" radio="false",iHeartRadio Hip Hop Beats (DrewLive)
-https://iheart-iheartthebeat-1-us.xumo.wurl.tv/playlist.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/9995103/hls/hls.m3u8?ads.xumo_channelId=9995103&ads._fw_ifa_type=&ads._fw_did=af4091fe-a52f-4e07-903e-b43c1cccae33&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=iHeartTheBeat&ads.csid=xumo_web_iHeartTheBeat_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3521&ads.xumo_contentName=iHeartTheBeat&ads.xumo_providerId=3521&ads.xumo_providerName=iHeartTheBeat&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=9995103&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1  tvg-name="Stingray Hip Hop (DrewLive)" tvg-id="USBD3500010MT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500010MT_20250630T232455SQUARE.png" group-title="DrewLive Music Video Channels" radio="false",Stingray Hip Hop (DrewLive)
 https://jmp2.uk/stvp-USBD3500010MT
 #EXTINF:-1  tvg-name="Vevo '90s & '00s (DrewLive)" tvg-id="GBBC2100002HP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="DrewLive Music Video Channels" radio="false",Vevo '90s & '00s (DrewLive)
