@@ -4613,6 +4613,8 @@ https://proxy.utako.moe/ph.php?&isp=1&id=cs19
 https://mt01.utako.moe/mbs/index.m3u8
 #EXTINF:-1 group-title="JapanTV" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=gx01
+#EXTINF:-1 group-title="JapanTV" tvg-id="mnet" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp.png",Mnet
+https://ca01.utako.moe/mnet/index.m3u8
 #EXTINF:-1 group-title="JapanTV" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",Mondo TV
 https://ca01.utako.moe/mondo/index.m3u8
 #EXTINF:-1 group-title="JapanTV" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png", Mondo TV (Primehome)
