@@ -91,20 +91,6 @@ http://115.69.40.212:55555/9GemHD%20Newcastle
 http://115.69.40.212:55555/9Life%20Newcastle
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/9-rush-au.png" group-title="AriaPlus - Australia",9Rush
 http://44.32.200.212:5004/auto/v96
-#EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://i.imgur.com/59gCbVd.png" group-title="AriaPlus - Australia",Fox Sports 501
-https://a1xs.vip/700001
-#EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox Sports 502 FHD" tvg-logo="https://i.imgur.com/idKGREY.png" group-title="AriaPlus - Australia",Fox Sports 502
-https://a1xs.vip/700002
-#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="Fox Sports 503 FHD" tvg-logo="https://i.imgur.com/5PUsSnn.png" group-title="AriaPlus - Australia",Fox Sports 503
-https://a1xs.vip/700003
-#EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="Fox Sports 504 FHD" tvg-logo="https://i.imgur.com/aEoU7gf.png" group-title="AriaPlus - Australia",Fox Sports 504
-https://a1xs.vip/700004
-#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505 FHD" tvg-logo="https://i.imgur.com/angJkah.png" group-title="AriaPlus - Australia",Fox Sports 505
-https://a1xs.vip/700005
-#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506 FHD" tvg-logo="https://i.imgur.com/eA1hiR0.png" group-title="AriaPlus - Australia",Fox Sports 506
-https://a1xs.vip/700006
-#EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="Fox Sports 507 FHD" tvg-logo="https://i.imgur.com/kGm7Ts1.png" group-title="AriaPlus - Australia",Fox Sports 507
-https://a1xs.vip/700007
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/vrt-canvas-be.png" group-title="AriaPlus - Canada",VRT Canvas
 http://192.145.57.85:9981/stream/channelid/288829476?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/belsat-pl.png" group-title="AriaPlus - United States",Belsat
@@ -247,7 +233,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
 https://cachehsi1a.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/focus-it.png" group-title="AriaPlus - United States",Focus
 http://77.39.161.42:55555/Focus%20HD
-#EXTINF:-1 group-title="AriaPlus - United States",Boing Plus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/735px-Boing_Plus_logo_2020.svg.png?20201201165658" group-title="AriaPlus - United States",Boing Plus
 http://77.39.161.42:55555/Boing%20Plus
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/a-and-e-us.png" group-title="AriaPlus - United States",A&E
 http://181.78.4.250:8098/play/a07f/index.m3u8
