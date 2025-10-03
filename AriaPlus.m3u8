@@ -135,7 +135,7 @@ https://livecdn.use1-0004.jwplive.com/live/sites/HGOnqYhO/media/i9sjcGbc/live.is
 http://38.143.48.212:9981/stream/channelid/2009202451?profile=pass
 #EXTINF:-1 tvg-id="cpac.francais.ca" tvg-logo="https://media.starlite.best/cpac.francais.ca.png" group-title="AriaPlus - Canada",CPAC
 http://38.143.48.212:9981/stream/channelid/1514524920?profile=pass
-#EXTINF:-1 tvg-id="CTV.News.Channel.ca" tvg-logo="https://media.starlite.best/ctv.news.channel.ca.png" group-title="AriaPlus - Canada",CTV News
+#EXTINF:-1 tvg-id="CTV.News.Channel.ca" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CTV-News-Channel-Reverse-Screen-Logo-The-Lede-1.png?auto=format&q=60&crop=faces%2C%20edges&ixlib=react-9.8.1" group-title="AriaPlus - Canada",CTV News Channel
 http://38.143.48.212:9981/stream/channelid/1877863586?profile=pass
 #EXTINF:-1 tvg-id="CTV.Comedy.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-comedy-channel-ca.png" group-title="AriaPlus - Canada",CTV Comedy
 http://38.143.48.212:9981/stream/channelid/874242496?profile=pass
@@ -165,7 +165,7 @@ http://38.143.48.212:9981/stream/channelid/1724607227?profile=pass
 http://38.143.48.212:9981/stream/channelid/1724607227?profile=pass
 #EXTINF:-1 tvg-id="FX.Networks.Canada.ca" tvg-logo="https://media.starlite.best/fx.networks.ca.png" group-title="AriaPlus - Canada",FX Canada
 http://38.143.48.212:9981/stream/channelid/1924145856?profile=pass
-#EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png" group-title="AriaPlus - Canada",Global Toronto (CIII)
+#EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-Toronto_GuideLogo_240x144.png" group-title="AriaPlus - Canada",Global Toronto (CIII)
 http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
 #EXTINF:-1 tvg-id="History.Canada.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/history-channel-ca.png" group-title="AriaPlus - Canada",History
 http://38.143.48.212:9981/stream/channelid/399303638?profile=pass
@@ -469,16 +469,16 @@ http://86.180.115.121:1990/stream/channelid/549388043?profile=pass
 http://86.180.115.121:1990/stream/channelid/986844643?profile=pass
 #EXTINF:-1 tvg-id="E4.+1.uk" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/E4-%2B1-RGB-Colour-Positive-255x140.png?itok=B49Vws0Y" group-title="AriaPlus - United Kingdom",E4 +1
 http://86.180.115.121:1990/stream/channelid/1993018842?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png" group-title="AriaPlus - United States",CBS (WCBS)
-http://108.14.66.42:5004/auto/v2.1
-#EXTINF:-1 tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nbc_logo_2022_verticalsvg.png" group-title="AriaPlus - United States",NBC (WNBC)
-http://108.14.66.42:5004/auto/v4.1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="AriaPlus - United States",ABC (WABC)
-http://108.14.66.42:5004/auto/v7.1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FOX_wordmark-orange_2.svg/1200px-FOX_wordmark-orange_2.svg.png" group-title="AriaPlus - United States",FOX (WNYW)
-http://108.14.66.42:5004/auto/v5.1
-#EXTINF:-1 tvg-logo="https://shop.cwtv.com/_next/image?url=https%3A%2F%2Fs3.us-west-2.amazonaws.com%2Fprod-cwtenantstack-citadelbucket0907d78c-ma0g5pjr1rvu%2Fcw-logo-1735322808088.webp&w=640&q=75" group-title="AriaPlus - United States",The CW (WPIX)
-http://108.14.66.42:5004/auto/v11.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png" group-title="AriaPlus - United States",CBS (WPEC)
+https://fl25.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
+#EXTINF:-1 tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nbc_logo_2022_verticalsvg.png" group-title="AriaPlus - United States",NBC (WVGN)
+https://fl25.moveonjoy.com/Virgin_Islands_NBC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="AriaPlus - United States",ABC (WFTS)
+https://fl25.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FOX_wordmark-orange_2.svg/1200px-FOX_wordmark-orange_2.svg.png" group-title="AriaPlus - United States",FOX (WFLX)
+https://fl25.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
+#EXTINF:-1 tvg-logo="https://shop.cwtv.com/_next/image?url=https%3A%2F%2Fs3.us-west-2.amazonaws.com%2Fprod-cwtenantstack-citadelbucket0907d78c-ma0g5pjr1rvu%2Fcw-logo-1735322808088.webp&w=640&q=75" group-title="AriaPlus - United States",The CW (WTOG)
+https://fl25.moveonjoy.com/FL_Tampa_CW44/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="AriaPlus - United States",MyNetworkTV (WWOR)
 http://108.14.66.42:5004/auto/v9.1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/250px-MeTV_Logo.svg.png" group-title="AriaPlus - United States",MeTV
