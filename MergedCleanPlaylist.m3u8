@@ -1,16 +1,12 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged2_epg.xml.gz"
 
 #EXTGRP:24/7 by DrewLive
-#EXTINF:-1  tvg-name="Deflect" tvg-id="24.7.Dummy.us" tvg-logo="https://www.webchnl.live/assets/img/channelicons/deflect.png" group-title="24/7 by DrewLive" radio="false",Deflect
-https://rhine.webchnl.live/memfs/8a788628-af64-4fae-8dac-2fcb9d1c4eae.m3u8
 #EXTINF:-1  tvg-name="Family Guy" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/FamilyGuy2.png" group-title="24/7 by DrewLive" radio="false",Family Guy
 http://cord-cutter.net:8080/hq3y4G/234247/66317
 #EXTINF:-1  tvg-name="Friends" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Friends.png" group-title="24/7 by DrewLive" radio="false",Friends
 http://cord-cutter.net:8080/hq3y4G/234247/66407
 #EXTINF:-1  tvg-name="Looney Tunes" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Looney.png" group-title="24/7 by DrewLive" radio="false",Looney Tunes
 http://cord-cutter.net:8080/hq3y4G/234247/125638
-#EXTINF:-1  tvg-name="Object" tvg-id="24.7.Dummy.us" tvg-logo="https://www.webchnl.live/assets/img/channelicons/objectcentral.png" group-title="24/7 by DrewLive" radio="false",Object
-https://rhine.webchnl.live/memfs/dfac9472-bf8f-455c-8306-68184073a2f8.m3u8
 #EXTINF:-1  tvg-name="Rick & Morty" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rick%26Morty.png" group-title="24/7 by DrewLive" radio="false",Rick & Morty
 http://cord-cutter.net:8080/hq3y4G/234247/66302
 #EXTINF:-1  tvg-name="Ridiculousness" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Ridiculousness.png" group-title="24/7 by DrewLive" radio="false",Ridiculousness
@@ -2587,6 +2583,8 @@ https://watch.chiptune.fm/hls/0/stream.m3u8?cachebust=a0a999
 https://grow.dwot.io/hls/1/stream.m3u8?cachebust=7ad5acb5
 #EXTINF:-1  tvg-name="Classic Cube" tvg-id="24.7.Dummy.us" tvg-logo="https://owncast.funcube.space/logo" group-title="DrewLive Fan Made TV" radio="false",Classic Cube
 https://sfo3.digitaloceanspaces.com/s3cube/hls/2/stream.m3u8?cachebust=b4854a
+#EXTINF:-1  tvg-name="Deflect" tvg-id="24.7.Dummy.us" tvg-logo="https://www.webchnl.live/assets/img/channelicons/deflect.png" group-title="DrewLive Fan Made TV" radio="false",Deflect
+https://rhine.webchnl.live/memfs/8a788628-af64-4fae-8dac-2fcb9d1c4eae.m3u8
 #EXTINF:-1  tvg-name="Drew Live" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Trunks.png" group-title="DrewLive Fan Made TV" radio="false",Drew Live
 http://drewlive24.duckdns.org:8080/hls/stream.m3u8
 #EXTINF:-1  tvg-name="EEL TV" tvg-id="24.7.Dummy.us" tvg-logo="https://www.webchnl.live/assets/img/channelicons/eel_ch.png" group-title="DrewLive Fan Made TV" radio="false",EEL TV
@@ -2613,6 +2611,8 @@ https://1a-1791.com/live/41ac4fe/slot-20/the7-txyl_1080p/chunklist_DVR.m3u8
 #EXTVLCOPT:http-referrer=https://rumble.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://rumble.com/live-hls-dvr/6x713y/playlist.m3u8
+#EXTINF:-1  tvg-name="Object" tvg-id="24.7.Dummy.us" tvg-logo="https://www.webchnl.live/assets/img/channelicons/objectcentral.png" group-title="DrewLive Fan Made TV" radio="false",Object
+https://rhine.webchnl.live/memfs/dfac9472-bf8f-455c-8306-68184073a2f8.m3u8
 #EXTINF:-1  tvg-name="Retro Blast" tvg-id="24.7.Dummy.us" tvg-logo="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/01/shutterstock_2221828967.jpg" group-title="DrewLive Fan Made TV" radio="false",Retro Blast
 https://retroblast.tv/hls/0/stream.m3u8?cachebust=f224d41f
 #EXTINF:-1  tvg-name="RetroStrange TV" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/RetroStrange.png" group-title="DrewLive Fan Made TV" radio="false",RetroStrange TV
