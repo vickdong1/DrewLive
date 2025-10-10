@@ -329,6 +329,10 @@ http://181.78.4.250:8098/play/a08y/index.m3u8
 http://162.207.11.109:9981/stream/channelid/1159717502?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tooncast-br.png" group-title="AriaPlus - United States",Tooncast
 http://162.207.11.109:9981/stream/channelid/146144282?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg.png" group-title="AriaPlus - United States",Disney Channel
+http://181.78.201.70:8000/play/a0up/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-jr-us.png" group-title="AriaPlus - United States",Disney Jr.
+http://181.78.201.70:8000/play/a0hn/index.m3u8
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/03/LOGO-KKANAL-D_00299_dark.png" group-title="AriaPlus - United States",Kanal D Drama
 http://38.250.127.17:9800/play/a076/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/250px-LRT_Plius_Logo_2022.svg.png" group-title="AriaPlus - United States",LRT Plius
@@ -337,6 +341,8 @@ http://78.56.193.170:9981/stream/channelid/2006312263?profile=pass
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12001/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canal_5_Mexico_logo_2014.svg" group-title="AriaPlus - Canada",Canal 5
 http://170.78.211.115:8000/play/a0ll/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AriaPlus - United States",Golden Plus
+http://38.7.195.43:8000/play/a0uv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4nbQ0Bt1/Logo-of-the-Korean-Central-Television-svg.png" group-title="AriaPlus - North Korea",Korea Central Television (KCTV)
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-logo="https://tv.wyatts-server.com/imagecache/8616" tvg-id="2873775b4b455d688ceebe2b2ed817dc" group-title="AriaPlus - New Zealand",TVNZ 1
