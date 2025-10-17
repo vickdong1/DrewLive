@@ -233,16 +233,42 @@ https://cachehsi1a.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 http://77.39.161.42:55555/Focus%20HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/735px-Boing_Plus_logo_2020.svg.png?20201201165658" group-title="AriaPlus - United States",Boing Plus
 http://77.39.161.42:55555/Boing%20Plus
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-proxy.wowow.co.jp/uploads/attachment/file/43304/2e678067-e153-4991-a150-58ced8360d63.png?w=800&h=800" group-title="AriaPlus - Japan",WOWOW Prime
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AriaPlus - Japan",NHK BS
+https://43.100.9.67/api/streams/live/bs101/1080p/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AriaPlus - Japan",WOWOW Prime
 https://43.100.9.67/api/streams/live/bs191/1080p/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AriaPlus - Japan",WOWOW Prime
+https://43.100.9.67/api/streams/live/bs191/1080p/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AriaPlus - Japan",WOWOW Live
+https://43.100.9.67/api/streams/live/bs192/1080p/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AriaPlus - Japan",WOWOW Cinema
+https://43.100.9.67/api/streams/live/bs193/1080p/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AriaPlus - Japan",MTV
 https://43.100.9.67/api/streams/live/cs323/1080p/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AriaPlus - Japan",Dlife
 https://43.100.9.67/api/streams/live/cs312/1080p/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AriaPlus - Japan",Fuji TV One
+https://43.100.9.67/api/streams/live/cs307/1080p/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AriaPlus - Japan",Fuji TV Two
+https://43.100.9.67/api/streams/live/cs308/1080p/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AriaPlus - Japan",Fuji TV Next
+https://43.100.9.67/api/streams/live/cs309/1080p/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AriaPlus - Japan",J Sports 1
+https://43.100.9.67/api/streams/live/bs242/1080p-60fps/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AriaPlus - Japan",J Sports 2
+https://43.100.9.67/api/streams/live/bs243/1080p-60fps/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AriaPlus - Japan",J Sports 3
+https://43.100.9.67/api/streams/live/bs244/1080p-60fps/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AriaPlus - Japan",J Sports 4
+https://43.100.9.67/api/streams/live/bs245/1080p-60fps/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AriaPlus - Japan",Disney Channel
+https://43.100.9.67/api/streams/live/bs256/1080p/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AriaPlus - Japan",Disney Jr.
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs23
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AriaPlus - Japan",Fuji TV
-https://mt01.utako.moe/Fuji_TV/index.m3u8
+https://43.100.9.67/api/streams/live/cs312/1080p/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AriaPlus - Japan",Cartoon Network
+https://43.100.9.67/api/streams/live/cs331/1080p/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AriaPlus - Japan",Kids Station
+https://43.100.9.67/api/streams/live/cs330/1080p/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/a-and-e-us.png" group-title="AriaPlus - United States",A&E
 http://181.78.4.250:8098/play/a07f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/amc-us.png" group-title="AriaPlus - United States",AMC
