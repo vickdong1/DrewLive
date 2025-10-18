@@ -4767,7 +4767,7 @@ https://1a-1791.com/live/m794n2d7/live-hls/qd1c-b6fi/chunklist_480p_i1_DVR.m3u8
 https://watch.chiptune.fm/hls/0/stream.m3u8?cachebust=a0a999
 #EXTINF:-1  tvg-name="Cannabis Grow" tvg-id="24.7.Dummy.us" tvg-logo="https://grow.dwot.io/logo" group-title="DrewLive Fan Made TV" radio="false",Cannabis Grow
 https://grow.dwot.io/hls/1/stream.m3u8?cachebust=7ad5acb5
-#EXTINF:-1  tvg-name="Classic Cube" tvg-id="24.7.Dummy.us" tvg-logo="https://owncast.funcube.space/logo" group-title="DrewLive Fan Made TV" radio="false",Classic Cube
+#EXTINF:-1  tvg-name="Classic Cube" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Gamecube.png" group-title="DrewLive Fan Made TV" radio="false",Classic Cube
 https://sfo3.digitaloceanspaces.com/s3cube/hls/2/stream.m3u8?cachebust=b4854a
 #EXTINF:-1  tvg-name="Deflect" tvg-id="24.7.Dummy.us" tvg-logo="https://www.webchnl.live/assets/img/channelicons/deflect.png" group-title="DrewLive Fan Made TV" radio="false",Deflect
 https://rhine.webchnl.live/memfs/8a788628-af64-4fae-8dac-2fcb9d1c4eae.m3u8
@@ -4817,7 +4817,9 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 #EXTINF:-1  tvg-name="Unusual Art" tvg-id="24.7.Dummy.us" tvg-logo="https://stream.unusualart.net/logo" group-title="DrewLive Fan Made TV" radio="false",Unusual Art
 https://stream.unusualart.net/hls/0/stream.m3u8?cachebust=a4240d
-#EXTINF:-1  tvg-name="WeedTUX" tvg-id="24.7.Dummy.us" tvg-logo="https://stream.tuxnet.me/logo" group-title="DrewLive Fan Made TV" radio="false",WeedTUX
+#EXTINF:-1  tvg-name="Verniy TV" tvg-id="24.7.Dummy.us" tvg-logo="https://live.verniy.tv/logo" group-title="DrewLive Fan Made TV" radio="false",Verniy TV
+https://live.verniy.tv/hls/1/stream.m3u8?cachebust=cfc8df
+#EXTINF:-1  tvg-name="WeedTUX" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="DrewLive Fan Made TV" radio="false",WeedTUX
 https://sfo3.digitaloceanspaces.com/wiitux-s3/hls/0/stream.m3u8?cachebust=bed568
 #EXTINF:-1  tvg-name="Whiplash" tvg-id="24.7.Dummy.us" tvg-logo="https://www.webchnl.live/assets/img/channelicons/whiplash.png" group-title="DrewLive Fan Made TV" radio="false",Whiplash
 https://rhine.webchnl.live/memfs/ac0f016c-e39c-4fa5-885d-b90aec65b076.m3u8
