@@ -19157,6 +19157,46 @@ https://tvpass.org/live/yes-network/hd
 #EXTINF:-1  tvg-name="Yes Network SD" tvg-id="yes-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="TVPass",Yes Network SD
 https://tvpass.org/live/yes-network/sd
 
+#EXTGRP:TVPass - MLB
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners @ Toronto Blue Jays (10/19 8:04 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Seattle Mariners @ Toronto Blue Jays (10/19 8:04 Pm Et)
+https://tvpass.org/live/FoxSports1/sd
+
+#EXTGRP:TVPass - NFL
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Atlanta Falcons @ San Francisco 49Ers (10/19 8:20 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Atlanta Falcons @ San Francisco 49Ers (10/19 8:20 Pm Et)
+https://tvpass.org/live/NFL10/sd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Carolina Panthers @ New York Jets (10/19 1:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Carolina Panthers @ New York Jets (10/19 1:00 Pm Et)
+https://tvpass.org/live/NFL26/sd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Green Bay Packers @ Arizona Cardinals (10/19 4:25 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Green Bay Packers @ Arizona Cardinals (10/19 4:25 Pm Et)
+https://tvpass.org/live/NFL08/sd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Indianapolis Colts @ Los Angeles Chargers (10/19 4:05 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Indianapolis Colts @ Los Angeles Chargers (10/19 4:05 Pm Et)
+https://tvpass.org/live/NFL12/sd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Las Vegas Raiders @ Kansas City Chiefs (10/19 1:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Las Vegas Raiders @ Kansas City Chiefs (10/19 1:00 Pm Et)
+https://tvpass.org/live/NFL28/sd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Los Angeles Rams @ Jacksonville Jaguars (10/19 9:30 Am Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Los Angeles Rams @ Jacksonville Jaguars (10/19 9:30 Am Et)
+https://tvpass.org/live/NFLNetwork/sd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Miami Dolphins @ Cleveland Browns (10/19 1:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Miami Dolphins @ Cleveland Browns (10/19 1:00 Pm Et)
+https://tvpass.org/live/NFL30/sd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New England Patriots @ Tennessee Titans (10/19 1:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",New England Patriots @ Tennessee Titans (10/19 1:00 Pm Et)
+https://tvpass.org/live/NFL27/sd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New Orleans Saints @ Chicago Bears (10/19 1:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",New Orleans Saints @ Chicago Bears (10/19 1:00 Pm Et)
+https://tvpass.org/live/NFL11/sd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New York Giants @ Denver Broncos (10/19 4:05 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",New York Giants @ Denver Broncos (10/19 4:05 Pm Et)
+https://tvpass.org/live/NFL22/sd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Philadelphia Eagles @ Minnesota Vikings (10/19 1:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Philadelphia Eagles @ Minnesota Vikings (10/19 1:00 Pm Et)
+https://tvpass.org/live/NFL04/sd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Washington Commanders @ Dallas Cowboys (10/19 4:25 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Washington Commanders @ Dallas Cowboys (10/19 4:25 Pm Et)
+https://tvpass.org/live/NFL19/sd
+
+#EXTGRP:TVPass - NHL
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Anaheim Ducks @ Chicago Blackhawks (10/19 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Anaheim Ducks @ Chicago Blackhawks (10/19 7:10 Pm Et)
+https://tvpass.org/live/NHL05/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Boston Bruins @ Utah Mammoth (10/19 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Boston Bruins @ Utah Mammoth (10/19 7:10 Pm Et)
+https://tvpass.org/live/NHLNetwork/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Edmonton Oilers @ Detroit Red Wings (10/19 3:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Edmonton Oilers @ Detroit Red Wings (10/19 3:10 Pm Et)
+https://tvpass.org/live/NHL06/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Vancouver Canucks @ Washington Capitals (10/19 12:40 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Vancouver Canucks @ Washington Capitals (10/19 12:40 Pm Et)
+https://tvpass.org/live/NHL30/sd
+
 #EXTGRP:Xumo Streams
 #EXTINF:-1  tvg-name="25 Words or Less" tvg-id="99991659" tvg-logo="https://image.xumo.com/v1/channels/channel/99991659/168x168.png?type=color_onBlack" group-title="Xumo Streams",25 Words or Less
 https://live-content.xumo.com/1102/content/XM076UO5NCLHWL/27852183/master.m3u8
