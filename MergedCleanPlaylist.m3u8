@@ -761,6 +761,8 @@ https://fl.moveonjoy.com/ABC_EAST/index.m3u8
 https://fl7.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1  tvg-name="ABC East (WABC)" tvg-id="WABC-DT.us_locals1" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/gmLofqo.png" group-title="AriaPlus - United States",ABC East (WABC)
 http://108.14.66.42:5004/auto/v7.1
+#EXTINF:-1  tvg-name="ABC Miami" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/6/62/WPLG_Local_10_ABC.png/revision/latest?cb=20200209020430" group-title="AriaPlus - United States",ABC Miami
+http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/183385
 #EXTINF:-1  tvg-name="ABC West (KABC)" tvg-id="KABC-DT.us_locals1" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/04LXZd6.png" group-title="AriaPlus - United States",ABC West (KABC)
 http://kstv.us:8080/live/Purn3542/38791114838/48784.ts
 #EXTINF:-1  tvg-name="Adult Swim (5PM-6AM ONLY)" tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/adult-swim-ca.png" group-title="AriaPlus - United States",Adult Swim (5PM-6AM ONLY)
@@ -833,6 +835,8 @@ https://fl.moveonjoy.com/FOX_EAST/index.m3u8
 https://fl7.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1  tvg-name="FOX 11 Plus (KCOP)" tvg-id="KCOP-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Fox_11_Plus_logo_2023.png" group-title="AriaPlus - United States",FOX 11 Plus (KCOP)
 http://kstv.us:8080/live/Purn3542/38791114838/48789.ts
+#EXTINF:-1  tvg-name="Fox 7 Miami"  tvg-logo="https://static.wikia.nocookie.net/tvstations/images/4/48/IMG_3530.png/revision/latest?cb=20250605211505" group-title="AriaPlus - United States",Fox 7 Miami
+http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/183507
 #EXTINF:-1  tvg-name="FOX East (WNYW)" tvg-id="WNYW-DT.us_locals1" tvg-logo="https://inelda.org/wp-content/uploads/2022/10/Fox_5_NY_New_York_Logo.png" group-title="AriaPlus - United States",FOX East (WNYW)
 http://108.14.66.42:5004/auto/v5.1
 #EXTINF:-1  tvg-name="Fox News" tvg-id="Fox.News.Channel.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/500px-Fox_News_Channel_logo.svg.png" group-title="AriaPlus - United States",Fox News
@@ -917,6 +921,10 @@ https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
 #EXTINF:-1  tvg-name="PBS NJ (Geo)" tvg-id="WNJT-DT.us_locals1" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/7/76/NJ_PBS.png" group-title="AriaPlus - United States",PBS NJ (Geo)
 https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
+#EXTINF:-1  tvg-name="PBS South Florida (WPBT)" tvg-logo="https://www.seekpng.com/png/detail/467-4673011_wpbt-south-florida-pbs.png" group-title="AriaPlus - United States",PBS South Florida (WPBT)
+http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/183639
+#EXTINF:-1  tvg-name=" PBS WLRN-TV Miami tvg-logo="https://wlrnexperience.weebly.com/uploads/3/7/1/7/37179649/9748616_orig.jpg" group-title="AriaPlus - United States",PBS WLRN-TV Miami
+http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/183584
 #EXTINF:-1  tvg-name="PBS WNET (Geo)" tvg-id="WNET-DT.us_locals1" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/QS2vFNq.png" group-title="AriaPlus - United States",PBS WNET (Geo)
 https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
 #EXTINF:-1  tvg-name="QVC East" tvg-id="QVC.HD.us2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg/revision/latest/scale-to-width-down/250?cb=20190429184243" group-title="AriaPlus - United States",QVC East
@@ -981,16 +989,8 @@ http://128.230.54.128:5004/auto/v53.1
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1  tvg-name="We TV" tvg-id="WE.tv.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/we-tv-us.png" group-title="AriaPlus - United States",We TV
 http://128.230.54.128:5004/auto/v56.2
-#EXTINF:-1  tvg-name="WLRN-TV Miami (PBS) tvg-logo="https://wlrnexperience.weebly.com/uploads/3/7/1/7/37179649/9748616_orig.jpg" group-title="AriaPlus - United States",WLRN-TV Miami (PBS)
-http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/183584
-#EXTINF:-1  tvg-name="WPBT 2 Miami (PBS)" tvg-logo="https://www.seekpng.com/png/detail/467-4673011_wpbt-south-florida-pbs.png" group-title="AriaPlus - United States",WPBT 2 Miami (PBS)
-http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/183639
-#EXTINF:-1  tvg-name="WPLG Miami" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/6/62/WPLG_Local_10_ABC.png/revision/latest?cb=20200209020430" group-title="AriaPlus - United States",WPLG Miami
-http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/183385
 #EXTINF:-1  tvg-name="WSFL 39 Miami" tvg-logo="https://static.wikia.nocookie.net/tv-stations-fanon/images/0/07/KSFL-CW.png/revision/latest?cb=20170606013533" group-title="AriaPlus - United States",WSFL 39 Miami
 http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/34026
-#EXTINF:-1  tvg-name="WSVN 7 Miami"  tvg-logo="https://static.wikia.nocookie.net/tvstations/images/4/48/IMG_3530.png/revision/latest?cb=20250605211505" group-title="AriaPlus - United States",WSVN 7 Miami
-http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/183507
 
 #EXTGRP:DaddyLive - Combat Zone
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="DaddyLive - Combat Zone",World Taekwondo Championship 28.10 09:30 (oct-28-2025 09:30 Am Uk / Oct-28-2025 03:30 Am Mdt / Oct-28-2025 05:30 Am Edt)
