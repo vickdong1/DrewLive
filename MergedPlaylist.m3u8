@@ -887,6 +887,8 @@ https://tvpass.org/live/MTVEast/hd
 https://tvpass.org/live/MTV2East/hd
 #EXTINF:-1  tvg-name="MyNetworkTV (WWOR)" tvg-id="WWOR-DT.us_locals1" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/wYUTVZS.png" group-title="AriaPlus - United States",MyNetworkTV (WWOR)
 http://108.14.66.42:5004/auto/v9.1
+#EXTINF:-1  tvg-name="MyNetworkTV 33 Miami" tvg-logo="https://wlrnexperience.weebly.com/uploads/3/7/1/7/37179649/9748616_orig.jpghttps://static.wikia.nocookie.net/dreamlogos/images/3/3f/WRDX-TV_Logo_2014_Updated.png/revision/latest?cb=20210208235152" group-title="AriaPlus - United States",MyNetworkTV 33 Miami
+http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/182429
 #EXTINF:-1  tvg-name="National Geographic" tvg-id="National.Geographic.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" group-title="AriaPlus - United States",National Geographic
 https://tvpass.org/live/NationalGeographicEast/hd
 #EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nbc_logo_2022_verticalsvg.png",NBC (WVGN)
@@ -18541,8 +18543,6 @@ https://tvpass.org/live/yes-network/hd
 https://tvpass.org/live/yes-network/sd
 
 #EXTGRP:Ungrouped
-#EXTINF:-1  tvg-name="MyNetworkTV 33 Miami" tvg-logo="https://wlrnexperience.weebly.com/uploads/3/7/1/7/37179649/9748616_orig.jpghttps://static.wikia.nocookie.net/dreamlogos/images/3/3f/WRDX-TV_Logo_2014_Updated.png/revision/latest?cb=20210208235152" group-title="AriaPlus - United States,MyNetworkTV 33 Miami
-http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/182429
 #EXTINF:-1  tvg-name="Telemundo Miami"  tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/telemundo-logo-black-and-white.png" group-title="AriaPlus - United States,Telemundo Miami
 http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/183100
 #EXTINF:-1  tvg-name="UNIMAS Miami" tvg-logo="https://sanantoniosports.org/wp-content/uploads/2022/08/Logo_UniMa%CC%81s.png" group-title="AriaPlus - United States,UNIMAS Miami
