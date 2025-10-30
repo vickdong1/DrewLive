@@ -18270,6 +18270,52 @@ https://tvpass.org/live/yes-network/hd
 #EXTINF:-1  tvg-name="Yes Network SD" tvg-id="yes-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="TVPass",Yes Network SD
 https://tvpass.org/live/yes-network/sd
 
+#EXTGRP:TVPass - NBA
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Golden State Warriors @ Milwaukee Bucks (10/30 8:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Golden State Warriors @ Milwaukee Bucks (10/30 8:10 Pm Et)
+https://tvpass.org/live/NBA16/sd
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Miami Heat @ San Antonio Spurs (10/30 8:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Miami Heat @ San Antonio Spurs (10/30 8:30 Pm Et)
+https://tvpass.org/live/NBA10/sd
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Orlando Magic @ Charlotte Hornets (10/30 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Orlando Magic @ Charlotte Hornets (10/30 7:10 Pm Et)
+https://tvpass.org/live/NBA02/sd
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Washington Wizards @ Oklahoma City Thunder (10/30 8:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Washington Wizards @ Oklahoma City Thunder (10/30 8:10 Pm Et)
+https://tvpass.org/live/NBA20/sd
+
+#EXTGRP:TVPass - NCAAF
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Marshall Thundering Herd @ Coastal Carolina Chanticleers (10/30 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Marshall Thundering Herd @ Coastal Carolina Chanticleers (10/30 7:30 Pm Et)
+https://tvpass.org/live/ESPN2/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Norfolk State Vs. Delaware State (10/30 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Norfolk State Vs. Delaware State (10/30 7:00 Pm Et)
+https://tvpass.org/live/ESPNU/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Tulane Green Wave @ Utsa Roadrunners (10/30 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Tulane Green Wave @ Utsa Roadrunners (10/30 7:30 Pm Et)
+https://tvpass.org/live/ESPN/sd
+
+#EXTGRP:TVPass - NFL
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Baltimore Ravens @ Miami Dolphins (10/30 8:15 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="TVPass - NFL",Baltimore Ravens @ Miami Dolphins (10/30 8:15 Pm Et)
+https://tvpass.org/live/tsn1/sd
+
+#EXTGRP:TVPass - NHL
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Buffalo Sabres @ Boston Bruins (10/30 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Buffalo Sabres @ Boston Bruins (10/30 7:00 Pm Et)
+https://tvpass.org/live/NHL17/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Calgary Flames @ Ottawa Senators (10/30 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Calgary Flames @ Ottawa Senators (10/30 7:00 Pm Et)
+https://tvpass.org/live/NHL02/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Chicago Blackhawks @ Winnipeg Jets (10/30 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Chicago Blackhawks @ Winnipeg Jets (10/30 8:00 Pm Et)
+https://tvpass.org/live/NHL05/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Dallas Stars @ Tampa Bay Lightning (10/30 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Dallas Stars @ Tampa Bay Lightning (10/30 7:00 Pm Et)
+https://tvpass.org/live/NHL27/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Detroit Red Wings @ Los Angeles Kings (10/30 10:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Detroit Red Wings @ Los Angeles Kings (10/30 10:30 Pm Et)
+https://tvpass.org/live/NHL06/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Nashville Predators @ Philadelphia Flyers (10/30 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Nashville Predators @ Philadelphia Flyers (10/30 7:00 Pm Et)
+https://tvpass.org/live/NHL21/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New Jersey Devils @ San Jose Sharks (10/30 10:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",New Jersey Devils @ San Jose Sharks (10/30 10:00 Pm Et)
+https://tvpass.org/live/NHL26/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New York Islanders @ Carolina Hurricanes (10/30 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",New York Islanders @ Carolina Hurricanes (10/30 7:30 Pm Et)
+https://tvpass.org/live/NHL09/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New York Rangers @ Edmonton Oilers (10/30 9:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",New York Rangers @ Edmonton Oilers (10/30 9:00 Pm Et)
+https://tvpass.org/live/NHL23/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Pittsburgh Penguins @ Minnesota Wild (10/30 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Pittsburgh Penguins @ Minnesota Wild (10/30 8:00 Pm Et)
+https://tvpass.org/live/NHL10/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Vancouver Canucks @ St Louis Blues (10/30 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Vancouver Canucks @ St Louis Blues (10/30 8:00 Pm Et)
+https://tvpass.org/live/NHL31/sd
+
 #EXTGRP:Xumo Streams
 #EXTINF:-1  tvg-name="25 Words or Less" tvg-id="99991659" tvg-logo="https://image.xumo.com/v1/channels/channel/99991659/168x168.png?type=color_onBlack" group-title="Xumo Streams",25 Words or Less
 https://live-content.xumo.com/1102/content/XM076UO5NCLHWL/27852183/master.m3u8
