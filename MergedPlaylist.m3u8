@@ -18536,6 +18536,144 @@ https://tvpass.org/live/yes-network/hd
 #EXTINF:-1  tvg-name="Yes Network SD" tvg-id="yes-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="TVPass",Yes Network SD
 https://tvpass.org/live/yes-network/sd
 
+#EXTGRP:TVPass - MLB
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers @ Toronto Blue Jays (11/01 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Los Angeles Dodgers @ Toronto Blue Jays (11/01 7:00 Pm Et)
+https://tvpass.org/live/WNYWDT1/sd
+
+#EXTGRP:TVPass - NBA
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Dallas Mavericks @ Detroit Pistons (11/01 10:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Dallas Mavericks @ Detroit Pistons (11/01 10:10 Pm Et)
+https://tvpass.org/live/NBA01/sd
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Golden State Warriors @ Indiana Pacers (11/01 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Golden State Warriors @ Indiana Pacers (11/01 7:10 Pm Et)
+https://tvpass.org/live/NBA23/sd
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Houston Rockets @ Boston Celtics (11/01 8:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Houston Rockets @ Boston Celtics (11/01 8:10 Pm Et)
+https://tvpass.org/live/NBA25/sd
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Minnesota Timberwolves @ Charlotte Hornets (11/01 6:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Minnesota Timberwolves @ Charlotte Hornets (11/01 6:10 Pm Et)
+https://tvpass.org/live/NBA21/sd
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Orlando Magic @ Washington Wizards (11/01 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Orlando Magic @ Washington Wizards (11/01 7:10 Pm Et)
+https://tvpass.org/live/NBA02/sd
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Sacramento Kings @ Milwaukee Bucks (11/01 5:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="TVPass - NBA",Sacramento Kings @ Milwaukee Bucks (11/01 5:10 Pm Et)
+https://tvpass.org/live/NBA16/sd
+
+#EXTGRP:TVPass - NCAAF
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Arizona State Sun Devils @ Iowa State Cyclones (11/01 1:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Arizona State Sun Devils @ Iowa State Cyclones (11/01 1:00 Pm Et)
+https://tvpass.org/live/truTVEast/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Arizona Wildcats @ Colorado Buffaloes (11/01 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Arizona Wildcats @ Colorado Buffaloes (11/01 7:00 Pm Et)
+https://tvpass.org/live/FoxSports1/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Arkansas State Red Wolves @ Troy Trojans (11/01 8:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Arkansas State Red Wolves @ Troy Trojans (11/01 8:00 Pm Et)
+https://tvpass.org/live/ESPNU/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Army Black Knights @ Air Force Falcons (11/01 12:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Army Black Knights @ Air Force Falcons (11/01 12:00 Pm Et)
+https://tvpass.org/live/WCBSDT1/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Buffalo Bulls @ Bowling Green Falcons (11/01 12:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Buffalo Bulls @ Bowling Green Falcons (11/01 12:00 Pm Et)
+https://tvpass.org/live/NCAAF01/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Central Michigan Chippewas @ Western Michigan Broncos (11/01 4:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Central Michigan Chippewas @ Western Michigan Broncos (11/01 4:00 Pm Et)
+https://tvpass.org/live/ESPNU/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Cincinnati Bearcats @ Utah Utes (11/01 10:15 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Cincinnati Bearcats @ Utah Utes (11/01 10:15 Pm Et)
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Delaware Blue Hens @ Liberty Flames (11/01 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Delaware Blue Hens @ Liberty Flames (11/01 3:30 Pm Et)
+https://tvpass.org/live/CBSSportsNetworkUSA/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Duke Blue Devils @ Clemson Tigers (11/01 12:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Duke Blue Devils @ Clemson Tigers (11/01 12:00 Pm Et)
+https://tvpass.org/live/ACCNetwork/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="East Carolina Pirates @ Temple Owls (11/01 2:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",East Carolina Pirates @ Temple Owls (11/01 2:00 Pm Et)
+https://tvpass.org/live/NCAAF03/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Fresno State Bulldogs @ Boise State Broncos (11/01 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Fresno State Bulldogs @ Boise State Broncos (11/01 3:30 Pm Et)
+https://tvpass.org/live/FoxSports1/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Georgia Bulldogs @ Florida Gators (11/01 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Georgia Bulldogs @ Florida Gators (11/01 3:30 Pm Et)
+https://tvpass.org/live/WABCDT1/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Georgia Tech Yellow Jackets @ Nc State Wolfpack (11/01 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Georgia Tech Yellow Jackets @ Nc State Wolfpack (11/01 7:30 Pm Et)
+https://tvpass.org/live/ESPN2/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Hawaii Rainbow Warriors @ San Jose State Spartans (11/01 10:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Hawaii Rainbow Warriors @ San Jose State Spartans (11/01 10:30 Pm Et)
+https://tvpass.org/live/CBSSportsNetworkUSA/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Indiana Hoosiers @ Maryland Terrapins (11/01 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Indiana Hoosiers @ Maryland Terrapins (11/01 3:30 Pm Et)
+https://tvpass.org/live/WCBSDT1/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Kentucky Wildcats @ Auburn Tigers (11/01 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Kentucky Wildcats @ Auburn Tigers (11/01 7:30 Pm Et)
+https://tvpass.org/live/SECN/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Louisiana Ragin Cajuns @ South Alabama Jaguars (11/01 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Louisiana Ragin Cajuns @ South Alabama Jaguars (11/01 3:30 Pm Et)
+https://tvpass.org/live/NCAAF05/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Louisville Cardinals @ Virginia Tech Hokies (11/01 3:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Louisville Cardinals @ Virginia Tech Hokies (11/01 3:00 Pm Et)
+https://tvpass.org/live/WPIX/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Miami Hurricanes @ Smu Mustangs (11/01 12:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Miami Hurricanes @ Smu Mustangs (11/01 12:00 Pm Et)
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Michigan State Spartans @ Minnesota Golden Gophers (11/01 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Michigan State Spartans @ Minnesota Golden Gophers (11/01 3:30 Pm Et)
+https://tvpass.org/live/BTN/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Mississippi State Bulldogs @ Arkansas Razorbacks (11/01 4:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Mississippi State Bulldogs @ Arkansas Razorbacks (11/01 4:00 Pm Et)
+https://tvpass.org/live/NCAAF08/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Navy Midshipmen @ North Texas Mean Green (11/01 12:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Navy Midshipmen @ North Texas Mean Green (11/01 12:00 Pm Et)
+https://tvpass.org/live/ESPN2/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="New Mexico Lobos @ Unlv Rebels (11/01 3:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",New Mexico Lobos @ Unlv Rebels (11/01 3:00 Pm Et)
+https://tvpass.org/live/NCAAF04/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="New Mexico State Aggies @ Western Kentucky Hilltoppers (11/01 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",New Mexico State Aggies @ Western Kentucky Hilltoppers (11/01 3:30 Pm Et)
+https://tvpass.org/live/NCAAF06/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Notre Dame Fighting Irish @ Boston College Eagles (11/01 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Notre Dame Fighting Irish @ Boston College Eagles (11/01 3:30 Pm Et)
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Oklahoma Sooners @ Tennessee Volunteers (11/01 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Oklahoma Sooners @ Tennessee Volunteers (11/01 7:30 Pm Et)
+https://tvpass.org/live/WABCDT1/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Oklahoma State Cowboys @ Kansas Jayhawks (11/01 4:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Oklahoma State Cowboys @ Kansas Jayhawks (11/01 4:00 Pm Et)
+https://tvpass.org/live/NCAAF09/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Old Dominion Monarchs @ Ul Monroe Warhawks (11/01 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Old Dominion Monarchs @ Ul Monroe Warhawks (11/01 3:30 Pm Et)
+https://tvpass.org/live/NCAAF07/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Penn State Nittany Lions @ Ohio State Buckeyes (11/01 12:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Penn State Nittany Lions @ Ohio State Buckeyes (11/01 12:00 Pm Et)
+https://tvpass.org/live/WNYWDT1/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Pittsburgh Panthers @ Stanford Cardinal (11/01 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Pittsburgh Panthers @ Stanford Cardinal (11/01 3:30 Pm Et)
+https://tvpass.org/live/ACCNetwork/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Purdue Boilermakers @ Michigan Wolverines (11/01 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Purdue Boilermakers @ Michigan Wolverines (11/01 7:00 Pm Et)
+https://tvpass.org/live/BTN/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Rutgers Scarlet Knights @ Illinois Fighting Illini (11/01 12:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Rutgers Scarlet Knights @ Illinois Fighting Illini (11/01 12:00 Pm Et)
+https://tvpass.org/live/NCAAF02/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="South Carolina Gamecocks @ Ole Miss Rebels (11/01 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",South Carolina Gamecocks @ Ole Miss Rebels (11/01 7:00 Pm Et)
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Texas Tech Red Raiders @ Kansas State Wildcats (11/01 3:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Texas Tech Red Raiders @ Kansas State Wildcats (11/01 3:30 Pm Et)
+https://tvpass.org/live/WNYWDT1/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Uab Blazers @ Uconn Huskies (11/01 12:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Uab Blazers @ Uconn Huskies (11/01 12:00 Pm Et)
+https://tvpass.org/live/CBSSportsNetworkUSA/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Ucf Knights @ Baylor Bears (11/01 12:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Ucf Knights @ Baylor Bears (11/01 12:00 Pm Et)
+https://tvpass.org/live/ESPNU/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Usc Trojans @ Nebraska Cornhuskers (11/01 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Usc Trojans @ Nebraska Cornhuskers (11/01 7:30 Pm Et)
+https://tvpass.org/live/WNBCDT1/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Vanderbilt Commodores @ Texas Longhorns (11/01 12:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Vanderbilt Commodores @ Texas Longhorns (11/01 12:00 Pm Et)
+https://tvpass.org/live/WABCDT1/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Virginia Cavaliers @ California Golden Bears (11/01 3:45 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Virginia Cavaliers @ California Golden Bears (11/01 3:45 Pm Et)
+https://tvpass.org/live/ESPN2/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Wake Forest Demon Deacons @ Florida State Seminoles (11/01 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Wake Forest Demon Deacons @ Florida State Seminoles (11/01 7:30 Pm Et)
+https://tvpass.org/live/ACCNetwork/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Washington State Cougars @ Oregon State Beavers (11/01 7:30 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Washington State Cougars @ Oregon State Beavers (11/01 7:30 Pm Et)
+https://tvpass.org/live/WCBSDT1/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="West Virginia Mountaineers @ Houston Cougars (11/01 12:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",West Virginia Mountaineers @ Houston Cougars (11/01 12:00 Pm Et)
+https://tvpass.org/live/FoxSports1/sd
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Wyoming Cowboys @ San Diego State Aztecs (11/01 7:00 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Wyoming Cowboys @ San Diego State Aztecs (11/01 7:00 Pm Et)
+https://tvpass.org/live/CBSSportsNetworkUSA/sd
+
+#EXTGRP:TVPass - NHL
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Calgary Flames @ Nashville Predators (11/01 3:40 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Calgary Flames @ Nashville Predators (11/01 3:40 Pm Et)
+https://tvpass.org/live/NHL02/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Carolina Hurricanes @ Boston Bruins (11/01 1:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Carolina Hurricanes @ Boston Bruins (11/01 1:10 Pm Et)
+https://tvpass.org/live/NHL04/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Chicago Blackhawks @ Edmonton Oilers (11/01 10:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Chicago Blackhawks @ Edmonton Oilers (11/01 10:10 Pm Et)
+https://tvpass.org/live/NHL05/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Colorado Avalanche @ San Jose Sharks (11/01 4:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Colorado Avalanche @ San Jose Sharks (11/01 4:10 Pm Et)
+https://tvpass.org/live/NHL13/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Dallas Stars @ Florida Panthers (11/01 6:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Dallas Stars @ Florida Panthers (11/01 6:10 Pm Et)
+https://tvpass.org/live/NHL27/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New Jersey Devils @ Los Angeles Kings (11/01 9:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",New Jersey Devils @ Los Angeles Kings (11/01 9:10 Pm Et)
+https://tvpass.org/live/NHL26/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New York Rangers @ Seattle Kraken (11/01 10:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",New York Rangers @ Seattle Kraken (11/01 10:10 Pm Et)
+https://tvpass.org/live/NHL23/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Ottawa Senators @ Montréal Canadiens (11/01 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Ottawa Senators @ Montréal Canadiens (11/01 7:10 Pm Et)
+https://tvpass.org/live/NHL18/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Pittsburgh Penguins @ Winnipeg Jets (11/01 3:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Pittsburgh Penguins @ Winnipeg Jets (11/01 3:10 Pm Et)
+https://tvpass.org/live/NHL10/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="St Louis Blues @ Columbus Blue Jackets (11/01 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",St Louis Blues @ Columbus Blue Jackets (11/01 7:10 Pm Et)
+https://tvpass.org/live/NHL22/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Toronto Maple Leafs @ Philadelphia Flyers (11/01 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Toronto Maple Leafs @ Philadelphia Flyers (11/01 7:10 Pm Et)
+https://tvpass.org/live/NHL19/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Vancouver Canucks @ Minnesota Wild (11/01 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Vancouver Canucks @ Minnesota Wild (11/01 7:10 Pm Et)
+https://tvpass.org/live/NHL31/sd
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Washington Capitals @ Buffalo Sabres (11/01 7:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="TVPass - NHL",Washington Capitals @ Buffalo Sabres (11/01 7:10 Pm Et)
+https://tvpass.org/live/NHL30/sd
+
+#EXTGRP:TVPass - PPV
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Ufc Fight Night: Garcia Vs. Onama (11/01 4:10 Pm Et)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="TVPass - PPV",Ufc Fight Night: Garcia Vs. Onama (11/01 4:10 Pm Et)
+https://tvpass.org/live/PPV01/sd
+
 #EXTGRP:Xumo Streams
 #EXTINF:-1  tvg-name="25 Words or Less" tvg-id="99991659" tvg-logo="https://image.xumo.com/v1/channels/channel/99991659/168x168.png?type=color_onBlack" group-title="Xumo Streams",25 Words or Less
 https://live-content.xumo.com/1102/content/XM076UO5NCLHWL/27852183/master.m3u8
